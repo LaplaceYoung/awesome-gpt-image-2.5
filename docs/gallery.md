@@ -1,79 +1,54 @@
-# Official stills
+# Case album
 
-Stills published with Introducing ChatGPT Images 2.5. Files live on OpenAI Contentful.
+Official ChatGPT Images 2.5 stills. Each case is one page: preview, metadata, official phrase when known, reconstruction prompt.
 
-## Hero
+| # | Case | Kind | Category |
+| --- | --- | --- | --- |
+| 01 | [Launch Wordmark](cases/01-images2point5_16-9.md) | t2i | Layout and type |
+| 02 | [Messy Bedroom (input)](cases/02-making-bed-before.md) | reconstruct-input | Fidelity and edits |
+| 03 | [Make the Bed](cases/03-making-bed-after.md) | edit | Fidelity and edits |
+| 04 | [Childhood Print (input)](cases/04-baby-portrait-before.md) | reconstruct-input | Fidelity and edits |
+| 05 | [Tuxedo Restyle](cases/05-baby-portrait-after.md) | edit | Fidelity and edits |
+| 06 | [Mid-century Poster Grid](cases/06-mid-century-modern-posters.md) | t2i | Layout and type |
+| 07 | [National Park Stamps](cases/07-vintage-national-park-stamps.md) | t2i | Layout and type |
+| 08 | [Wedding Invitation Flat-lay](cases/08-wedding-invitation.md) | t2i | Layout and type |
+| 09 | [Science Deck Screenshot](cases/09-presentation-image.md) | t2i | Documents |
+| 10 | [ChatGPT Stickers Poster](cases/10-stickers.md) | t2i | Product and brand |
+| 11 | [Impressionist Cityscape](cases/11-impressionist-cityscape.md) | t2i | Style lock |
+| 12 | [Restrained Cyberpunk City](cases/12-cyberpunk.md) | t2i | Style lock |
+| 13 | [Orbital Colony Retrofuturism](cases/13-retrofuturism.md) | t2i | Style lock |
+| 14 | [Inverted City Surrealism](cases/14-sci-fi-surrealism.md) | t2i | Style lock |
+| 15 | [1980s Studio Headshot](cases/15-80s-headshot.md) | edit | Character |
+| 16 | [Earth Mosaic](cases/16-mosaic.md) | t2i | Style lock |
 
-### G-01 Cover 16:9
+## By category
 
-![cover](https://images.ctfassets.net/kftzwdyauwt9/6J668sj93QnQ8PWP7epUDv/8c18024af19e461a176e1b8465da3bbc/images2point5_16-9.png)
+### Fidelity and edits
 
-## Reference edits
+- [02 Bedroom input](cases/02-making-bed-before.md)
+- [03 Make the bed](cases/03-making-bed-after.md)
+- [04 Childhood print](cases/04-baby-portrait-before.md)
+- [05 Tuxedo restyle](cases/05-baby-portrait-after.md)
 
-### G-02 Making the bed before
+### Layout and type
 
-![bed-before](https://images.ctfassets.net/kftzwdyauwt9/29tm5FQLWSGX9xN2QM688f/efb5d3b49badc8472906944dc3066b6e/making-bed-before.jpeg)
+- [01 Wordmark](cases/01-images2point5_16-9.md)
+- [06 Poster grid](cases/06-mid-century-modern-posters.md)
+- [07 Stamps](cases/07-vintage-national-park-stamps.md)
+- [08 Invitation](cases/08-wedding-invitation.md)
 
-### G-03 Making the bed after
+### Documents / product / character
 
-![bed-after](https://images.ctfassets.net/kftzwdyauwt9/5h3fkX1jMPVf4KoB9gKKX5/08479e8916553fe7398f3a686426db0e/making-bed-after.webp)
+- [09 Deck UI](cases/09-presentation-image.md)
+- [10 Stickers](cases/10-stickers.md)
+- [15 1980s headshot](cases/15-80s-headshot.md)
 
-### G-04 Baby portrait before
+### Style lock
 
-![baby-before](https://images.ctfassets.net/kftzwdyauwt9/32SMucJsSrwGCjHrGx4wkb/34dc5553df131fac17423e84177ce002/baby-portrait-before.jpeg)
+- [11 Impressionist](cases/11-impressionist-cityscape.md)
+- [12 Cyberpunk](cases/12-cyberpunk.md)
+- [13 Retrofuturism](cases/13-retrofuturism.md)
+- [14 Sci-fi surrealism](cases/14-sci-fi-surrealism.md)
+- [16 Mosaic](cases/16-mosaic.md)
 
-### G-05 Baby portrait after
-
-![baby-after](https://images.ctfassets.net/kftzwdyauwt9/31fyboLGIlu5roN22tlEHK/9be57d84b3b7bbf22e7aa7f74b5af102/baby-portrait-after.webp)
-
-## Layout and text
-
-### G-06 Mid-century modern posters
-
-![posters](https://images.ctfassets.net/kftzwdyauwt9/47GTXbcPJQKPxvuNfyQo5V/1faeee99e4c10ea3042941c7312837b0/mid-century-modern-posters.png)
-
-### G-07 Vintage national park stamps
-
-![stamps](https://images.ctfassets.net/kftzwdyauwt9/4M5M3sRxcgnYl8Q2M8DZ3y/bc3773f82ae0e68d025e2dca3d5b8f43/vintage-national-park-stamps.png)
-
-### G-08 Wedding invitation
-
-![invite](https://images.ctfassets.net/kftzwdyauwt9/4j4NxMqYjew5nrW2nqo7Yq/dd05b405739b3fb9f0f3cb56a196889b/wedding-invitation.webp)
-
-### G-09 Presentation visual
-
-![deck](https://images.ctfassets.net/kftzwdyauwt9/4IPoFYxHjVAfoZ4ZmKO1VX/25a75228d3dcaf8ae9369467a06a5281/presentation-image.webp)
-
-### G-10 Stickers
-
-![stickers](https://images.ctfassets.net/kftzwdyauwt9/5jpsVIXTvhsaamMRBBygyj/59a740665177515836747b400f52e3fc/stickers.webp)
-
-## Style studies
-
-### G-11 Impressionist cityscape
-
-![impressionist](https://images.ctfassets.net/kftzwdyauwt9/521YOTFHRC1SBj5llj4HkY/15d00909f0f73cf0af06b7de524d1d33/impressionist-cityscape.webp)
-
-### G-12 Cyberpunk
-
-![cyberpunk](https://images.ctfassets.net/kftzwdyauwt9/5siUce5uMdk0FxOA5opjoB/fcfb4452b13c144108f7786a9412f982/cyberpunk.png)
-
-### G-13 Retrofuturism
-
-![retro](https://images.ctfassets.net/kftzwdyauwt9/5vY4gdGrJFxuwV8l6GBU03/94befc05806eb290e786473975b3b22b/retrofuturism.png)
-
-### G-14 Sci-fi surrealism
-
-![scifi](https://images.ctfassets.net/kftzwdyauwt9/Oe7BObgTAVCWhUe8Xsxy6/ef835be62240562b3ae4be70d404d61d/sci-fi-surrealism.png)
-
-## Character
-
-### G-15 1980s headshot
-
-![80s](https://images.ctfassets.net/kftzwdyauwt9/1oUEzmNEwhlktfQMqWLwTO/cde41dc57991caa0d6b22b35b2d8c70c/80s-headshot.png)
-
-## Mosaic
-
-### G-16 Style mosaic
-
-![mosaic](https://images.ctfassets.net/kftzwdyauwt9/3GALloAIN7Jn0P7wbvHPEB/0d02422440dfb3a001ff125cf37f7de4/mosaic.png)
+Machine index: [`data/cases.json`](../data/cases.json)

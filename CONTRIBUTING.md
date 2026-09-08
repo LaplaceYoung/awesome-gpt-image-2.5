@@ -1,23 +1,11 @@
 # Contributing
 
-## Add a still
+## Add a case
 
-1. Only link publicly published official assets, or original work you can MIT-license.
-2. Give it a `G-xx` id in `docs/gallery.md`.
-3. Point at a template id.
+1. Give it the next `docs/cases/NN-slug.md` number.
+2. Keep the page shape: image, field table, official phrase if any, prompt fence.
+3. Register it in `docs/gallery.md` and `data/cases.json`.
 
 ## Add a template
 
-1. New ids continue `TPL-xx` in `docs/templates.md`.
-2. Keep slot names stable: `{subject}` `{change}` `{lock}` `{style}` `{copy}` `{format}`.
-3. Register style keys in `data/style-library.json`.
-
-## Language
-
-- English lives in `README.md`.
-- Chinese lives in `README.zh-CN.md`.
-- Shared docs stay English unless a file is explicitly bilingual.
-
-## Pull requests
-
-Small, one concern per PR. Describe the still or template and where you sourced it.
+Continue `TPL-xx` in `docs/templates.md`. Point at related cases.

@@ -1,40 +1,66 @@
 # Awesome GPT Image 2.5
 
-Curated official samples, structured prompts, and model notes for **ChatGPT Images 2.5** and the API models **GPT-Image-2.5 Flare** and **GPT-Image-2.5 Sunburst**.
+Official stills, reconstruction prompts, and reusable templates for **ChatGPT Images 2.5** / **GPT-Image-2.5 Flare** / **GPT-Image-2.5 Sunburst**.
 
 [English](README.md) | [Simplified Chinese](README.zh-CN.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Models](https://img.shields.io/badge/models-Flare%20%7C%20Sunburst-111111)](docs/models.md)
+[![Cases](https://img.shields.io/badge/cases-16-111111)](docs/gallery.md)
 [![Released](https://img.shields.io/badge/released-2026--09--08-blue)](https://openai.com/index/introducing-chatgpt-images-2-5/)
-
-## Official launch
-
-On 8 September 2026 OpenAI shipped ChatGPT Images 2.5: sharper detail, more reliable multi-turn edits, up to 50% lower latency versus Images 2.0, plus Sketch, Templates, inline comments, and shareable prompts.
-
-- Blog: [Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
-- System card: [ChatGPT Images 2.5 System Card](https://deploymentsafety.openai.com/chatgpt-images-2-5)
-- API guide: [Image generation](https://developers.openai.com/api/docs/guides/image-generation)
-- Help: [Images in ChatGPT](https://help.openai.com/articles/11084440)
 
 ## Quick links
 
 | Resource | Path |
 | --- | --- |
-| Official stills | [docs/gallery.md](docs/gallery.md) |
-| Reconstruction prompts | [docs/prompts/README.md](docs/prompts/README.md) |
-| Prompt templates | [docs/templates.md](docs/templates.md) |
-| Flare vs Sunburst | [docs/models.md](docs/models.md) |
+| Case album | [docs/gallery.md](docs/gallery.md) |
+| Templates | [docs/templates.md](docs/templates.md) |
+| Models | [docs/models.md](docs/models.md) |
+| Case index JSON | [data/cases.json](data/cases.json) |
 | Agent skill | [agents/skills/gpt-image-2.5-style-library/SKILL.md](agents/skills/gpt-image-2.5-style-library/SKILL.md) |
-| Style library JSON | [data/style-library.json](data/style-library.json) |
 | Disclaimer | [docs/disclaimer.md](docs/disclaimer.md) |
 
-## How to use this repository
+## Layout of this repository
 
-1. Open [docs/gallery.md](docs/gallery.md) and pick a still.
-2. Copy the matching reconstruction prompt from [docs/prompts/](docs/prompts/README.md).
-3. Choose Flare for speed or Sunburst for lock-tight edits.
-4. For edits, keep identity and layout locks in separate sentences.
+```
+docs/gallery.md          album index
+docs/cases/01-....md     one still + metadata + prompt
+docs/templates.md        reusable templates by job
+docs/models.md           Flare / Sunburst / ChatGPT
+data/cases.json          machine-readable catalog
+agents/skills/           operator skill for agents
+```
+
+Each case page has the same shape: preview image, field table, official phrase when known, reconstruction prompt in a `prompt` fence.
+
+## Category overview
+
+| Category | Cases | Open |
+| --- | --- | --- |
+| Fidelity and edits | 02-05 | [gallery](docs/gallery.md#fidelity-and-edits) |
+| Layout and type | 01, 06-08 | [gallery](docs/gallery.md#layout-and-type) |
+| Documents / product / character | 09, 10, 15 | [gallery](docs/gallery.md#documents--product--character) |
+| Style lock | 11-14, 16 | [gallery](docs/gallery.md#style-lock) |
+
+## Featured cases
+
+| Case | What to steal |
+| --- | --- |
+| [03 Make the Bed](docs/cases/03-making-bed-after.md) | Short edit. Freeze the room. |
+| [05 Tuxedo Restyle](docs/cases/05-baby-portrait-after.md) | Change only X. |
+| [06 Poster Grid](docs/cases/06-mid-century-modern-posters.md) | Shared palette plus nine specified posters. |
+| [09 Science Deck](docs/cases/09-presentation-image.md) | UI chrome plus sidebar continuity. |
+| [15 1980s Headshot](docs/cases/15-80s-headshot.md) | Official phrase is one sentence; reconstruction locks the print. |
+
+## How to use
+
+1. Find a neighbor still in [docs/gallery.md](docs/gallery.md).
+2. Open its case page and copy the reconstruction prompt.
+3. If the job is new, start from [docs/templates.md](docs/templates.md) and fill the slots.
+4. One change per edit turn. List the locks.
+
+## Sources
+
+Stills are linked from the [Images 2.5 launch post](https://openai.com/index/introducing-chatgpt-images-2-5/) CDN. Reconstruction prompts are reverse-engineered for replication. See [docs/disclaimer.md](docs/disclaimer.md).
 
 ## License
 
