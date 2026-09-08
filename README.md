@@ -11,23 +11,17 @@ See the [official ChatGPT Images 2.5 announcement](https://openai.com/index/intr
 
 [简体中文](README.zh-CN.md) · [Case gallery](docs/gallery.md) · [Prompt templates](docs/templates.md) · [Model guide](docs/models.md)
 
-> **What is this repository?** A practical prompt and visual-reference library for learning, evaluating, and prototyping with GPT Image 2.5. It is documentation and sample data, not an API SDK, model checkpoint, or promise of identical outputs.
-
-## Contents
-
-- [Start here](#start-here)
-- [Explore by task](#explore-by-task)
-- [What is included](#what-is-included)
-- [A repeatable prompt workflow](#a-repeatable-prompt-workflow)
-- [Choose a model surface](#choose-a-model-surface)
-- [Repository map](#repository-map)
-- [For agents and search systems](#for-agents-and-search-systems)
-- [Contributing](#contributing)
-- [License and attribution](#license-and-attribution)
-
 ## Generated case gallery
 
 These reconstruction images were generated in ChatGPT Web with GPT Image 2.5 from the prompts in the linked case pages. The gallery uses the same compact visual index pattern as [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2), while keeping each asset traceable to its source prompt.
+
+### 17 · Canvas Forge UI
+
+![Canvas Forge workbench with image preview, prompt editor, and generation controls](assets/generated/17-canvas-forge-ui.jpg)
+
+[Read the full prompt and source](docs/cases/17-canvas-forge-ui.md)
+
+### More examples
 
 <table>
   <tr>
@@ -48,9 +42,23 @@ These reconstruction images were generated in ChatGPT Web with GPT Image 2.5 fro
   <tr>
     <td align="center"><a href="docs/cases/15-80s-headshot.md"><img src="assets/generated/15-80s-headshot.jpg" alt="1980s studio headshot reconstruction" width="260"></a><br><sub>15A · 1980s Headshot</sub></td>
     <td align="center"><a href="docs/cases/15-80s-headshot.md"><img src="assets/generated/15-80s-headshot-alt.jpg" alt="Alternative 1980s studio headshot reconstruction" width="260"></a><br><sub>15B · 1980s Headshot</sub></td>
-    <td align="center"><a href="docs/cases/17-canvas-forge-ui.md"><img src="assets/generated/17-canvas-forge-ui.jpg" alt="Canvas Forge GPT Image 2.5 workbench UI screenshot" width="260"></a><br><sub>17 · Canvas Forge UI</sub><br><sub>See the full <a href="docs/gallery.md">case index</a></sub></td>
+    <td align="center"><a href="docs/cases/06-mid-century-modern-posters.md"><img src="assets/generated/06-mid-century-modern-posters-b.jpg" alt="Alternative mid-century modern motivational poster grid" width="260"></a><br><sub>06B · Poster Grid</sub></td>
   </tr>
 </table>
+
+> **What is this repository?** A practical prompt and visual-reference library for learning, evaluating, and prototyping with GPT Image 2.5. It is documentation and sample data, not an API SDK, model checkpoint, or promise of identical outputs.
+
+## Contents
+
+- [Start here](#start-here)
+- [Explore by task](#explore-by-task)
+- [What is included](#what-is-included)
+- [A repeatable prompt workflow](#a-repeatable-prompt-workflow)
+- [Choose a model surface](#choose-a-model-surface)
+- [Repository map](#repository-map)
+- [For agents and search systems](#for-agents-and-search-systems)
+- [Contributing](#contributing)
+- [License and attribution](#license-and-attribution)
 
 ## Start here
 

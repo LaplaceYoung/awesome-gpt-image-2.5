@@ -11,23 +11,17 @@
 
 [English](README.md) · [案例画廊](docs/gallery.md) · [提示词模板](docs/templates.md) · [模型指南](docs/models.md)
 
-> **这是什么？** 一个用于学习和实践 GPT Image 2.5 的提示词与视觉参考库，包含文档和示例数据；它不是 API SDK、模型权重，也不保证每次生成得到完全相同的结果。
-
-## 目录
-
-- [快速开始](#快速开始)
-- [按任务浏览](#按任务浏览)
-- [仓库内容](#仓库内容)
-- [可复用的提示词流程](#可复用的提示词流程)
-- [选择模型入口](#选择模型入口)
-- [目录结构](#目录结构)
-- [面向 Agent 与搜索系统](#面向-agent-与搜索系统)
-- [参与贡献](#参与贡献)
-- [许可证与署名](#许可证与署名)
-
 ## 生成案例画廊
 
 以下重建图由 ChatGPT Web 使用 GPT Image 2.5、根据对应案例页中的提示词生成。展示结构参考了 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)，每张图都链接回原始案例页，便于查看提示词和约束。
+
+### 17 · Canvas Forge 工作台界面
+
+![Canvas Forge 工作台：图像预览、提示词编辑区与参数面板](assets/generated/17-canvas-forge-ui.jpg)
+
+[查看完整提示词与来源](docs/cases/17-canvas-forge-ui.md)
+
+### 更多案例
 
 <table>
   <tr>
@@ -48,9 +42,23 @@
   <tr>
     <td align="center"><a href="docs/cases/15-80s-headshot.md"><img src="assets/generated/15-80s-headshot.jpg" alt="1980 年代摄影棚肖像" width="260"></a><br><sub>15A · 1980 年代肖像</sub></td>
     <td align="center"><a href="docs/cases/15-80s-headshot.md"><img src="assets/generated/15-80s-headshot-alt.jpg" alt="另一张 1980 年代摄影棚肖像" width="260"></a><br><sub>15B · 1980 年代肖像</sub></td>
-    <td align="center"><a href="docs/cases/17-canvas-forge-ui.md"><img src="assets/generated/17-canvas-forge-ui.jpg" alt="Canvas Forge GPT Image 2.5 工作台界面" width="260"></a><br><sub>17 · Canvas Forge UI</sub><br><sub>查看<a href="docs/gallery.md">完整索引</a></sub></td>
+    <td align="center"><a href="docs/cases/06-mid-century-modern-posters.md"><img src="assets/generated/06-mid-century-modern-posters-b.jpg" alt="第二版复古现代励志海报网格" width="260"></a><br><sub>06B · 海报网格</sub></td>
   </tr>
 </table>
+
+> **这是什么？** 一个用于学习和实践 GPT Image 2.5 的提示词与视觉参考库，包含文档和示例数据；它不是 API SDK、模型权重，也不保证每次生成得到完全相同的结果。
+
+## 目录
+
+- [快速开始](#快速开始)
+- [按任务浏览](#按任务浏览)
+- [仓库内容](#仓库内容)
+- [可复用的提示词流程](#可复用的提示词流程)
+- [选择模型入口](#选择模型入口)
+- [目录结构](#目录结构)
+- [面向 Agent 与搜索系统](#面向-agent-与搜索系统)
+- [参与贡献](#参与贡献)
+- [许可证与署名](#许可证与署名)
 
 ## 快速开始
 
