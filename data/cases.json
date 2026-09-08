@@ -1,0 +1,21 @@
+{
+  "version": "2026-09-08",
+  "cases": [
+    {"id": 1, "slug": "01-images2point5_16-9", "title": "Launch Wordmark", "kind": "t2i", "category": "Layout and type", "path": "docs/cases/01-images2point5_16-9.md"},
+    {"id": 2, "slug": "02-making-bed-before", "title": "Messy Bedroom (input)", "kind": "reconstruct-input", "category": "Fidelity and edits", "path": "docs/cases/02-making-bed-before.md"},
+    {"id": 3, "slug": "03-making-bed-after", "title": "Make the Bed", "kind": "edit", "category": "Fidelity and edits", "path": "docs/cases/03-making-bed-after.md"},
+    {"id": 4, "slug": "04-baby-portrait-before", "title": "Childhood Print (input)", "kind": "reconstruct-input", "category": "Fidelity and edits", "path": "docs/cases/04-baby-portrait-before.md"},
+    {"id": 5, "slug": "05-baby-portrait-after", "title": "Tuxedo Restyle", "kind": "edit", "category": "Fidelity and edits", "path": "docs/cases/05-baby-portrait-after.md"},
+    {"id": 6, "slug": "06-mid-century-modern-posters", "title": "Mid-century Poster Grid", "kind": "t2i", "category": "Layout and type", "path": "docs/cases/06-mid-century-modern-posters.md"},
+    {"id": 7, "slug": "07-vintage-national-park-stamps", "title": "National Park Stamps", "kind": "t2i", "category": "Layout and type", "path": "docs/cases/07-vintage-national-park-stamps.md"},
+    {"id": 8, "slug": "08-wedding-invitation", "title": "Wedding Invitation Flat-lay", "kind": "t2i", "category": "Layout and type", "path": "docs/cases/08-wedding-invitation.md"},
+    {"id": 9, "slug": "09-presentation-image", "title": "Science Deck Screenshot", "kind": "t2i", "category": "Documents", "path": "docs/cases/09-presentation-image.md"},
+    {"id": 10, "slug": "10-stickers", "title": "ChatGPT Stickers Poster", "kind": "t2i", "category": "Product and brand", "path": "docs/cases/10-stickers.md"},
+    {"id": 11, "slug": "11-impressionist-cityscape", "title": "Impressionist Cityscape", "kind": "t2i", "category": "Style lock", "path": "docs/cases/11-impressionist-cityscape.md"},
+    {"id": 12, "slug": "12-cyberpunk", "title": "Restrained Cyberpunk City", "kind": "t2i", "category": "Style lock", "path": "docs/cases/12-cyberpunk.md"},
+    {"id": 13, "slug": "13-retrofuturism", "title": "Orbital Colony Retrofuturism", "kind": "t2i", "category": "Style lock", "path": "docs/cases/13-retrofuturism.md"},
+    {"id": 14, "slug": "14-sci-fi-surrealism", "title": "Inverted City Surrealism", "kind": "t2i", "category": "Style lock", "path": "docs/cases/14-sci-fi-surrealism.md"},
+    {"id": 15, "slug": "15-80s-headshot", "title": "1980s Studio Headshot", "kind": "edit", "category": "Character", "path": "docs/cases/15-80s-headshot.md"},
+    {"id": 16, "slug": "16-mosaic", "title": "Earth Mosaic", "kind": "t2i", "category": "Style lock", "path": "docs/cases/16-mosaic.md"}
+  ]
+}
