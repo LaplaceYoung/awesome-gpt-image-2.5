@@ -20,6 +20,7 @@ Official ChatGPT Images 2.5 stills. Each case is one page: preview, metadata, of
 | 14 | [Inverted City Surrealism](cases/14-sci-fi-surrealism.md) | t2i | Style lock |
 | 15 | [1980s Studio Headshot](cases/15-80s-headshot.md) | edit | Character |
 | 16 | [Earth Mosaic](cases/16-mosaic.md) | t2i | Style lock |
+| 17 | [Canvas Forge UI Screenshot](cases/17-canvas-forge-ui.md) | t2i | UI and interfaces |
 
 ## By category
 
@@ -42,6 +43,7 @@ Official ChatGPT Images 2.5 stills. Each case is one page: preview, metadata, of
 - [09 Deck UI](cases/09-presentation-image.md)
 - [10 Stickers](cases/10-stickers.md)
 - [15 1980s headshot](cases/15-80s-headshot.md)
+- [17 Canvas Forge UI](cases/17-canvas-forge-ui.md)
 
 ### Style lock
 

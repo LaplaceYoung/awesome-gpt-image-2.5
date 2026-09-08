@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-08",
+  "version": "2026-09-09",
   "cases": [
     {"id": 1, "slug": "01-images2point5_16-9", "title": "Launch Wordmark", "kind": "t2i", "category": "Layout and type", "path": "docs/cases/01-images2point5_16-9.md"},
     {"id": 2, "slug": "02-making-bed-before", "title": "Messy Bedroom (input)", "kind": "reconstruct-input", "category": "Fidelity and edits", "path": "docs/cases/02-making-bed-before.md"},
@@ -16,6 +16,7 @@
     {"id": 13, "slug": "13-retrofuturism", "title": "Orbital Colony Retrofuturism", "kind": "t2i", "category": "Style lock", "path": "docs/cases/13-retrofuturism.md"},
     {"id": 14, "slug": "14-sci-fi-surrealism", "title": "Inverted City Surrealism", "kind": "t2i", "category": "Style lock", "path": "docs/cases/14-sci-fi-surrealism.md"},
     {"id": 15, "slug": "15-80s-headshot", "title": "1980s Studio Headshot", "kind": "edit", "category": "Character", "path": "docs/cases/15-80s-headshot.md"},
-    {"id": 16, "slug": "16-mosaic", "title": "Earth Mosaic", "kind": "t2i", "category": "Style lock", "path": "docs/cases/16-mosaic.md"}
+    {"id": 16, "slug": "16-mosaic", "title": "Earth Mosaic", "kind": "t2i", "category": "Style lock", "path": "docs/cases/16-mosaic.md"},
+    {"id": 17, "slug": "17-canvas-forge-ui", "title": "Canvas Forge UI Screenshot", "kind": "t2i", "category": "UI and interfaces", "path": "docs/cases/17-canvas-forge-ui.md"}
   ]
 }

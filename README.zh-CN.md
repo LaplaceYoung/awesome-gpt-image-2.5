@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![案例](https://img.shields.io/badge/cases-16-111111)](docs/gallery.md)
+[![案例](https://img.shields.io/badge/cases-17-111111)](docs/gallery.md)
 [![提示词模板](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![更新](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -48,13 +48,13 @@
   <tr>
     <td align="center"><a href="docs/cases/15-80s-headshot.md"><img src="assets/generated/15-80s-headshot.jpg" alt="1980 年代摄影棚肖像" width="260"></a><br><sub>15A · 1980 年代肖像</sub></td>
     <td align="center"><a href="docs/cases/15-80s-headshot.md"><img src="assets/generated/15-80s-headshot-alt.jpg" alt="另一张 1980 年代摄影棚肖像" width="260"></a><br><sub>15B · 1980 年代肖像</sub></td>
-    <td align="center"><em>更多案例即将加入</em><br><sub>查看<a href="docs/gallery.md">完整索引</a></sub></td>
+    <td align="center"><a href="docs/cases/17-canvas-forge-ui.md"><img src="assets/generated/17-canvas-forge-ui.jpg" alt="Canvas Forge GPT Image 2.5 工作台界面" width="260"></a><br><sub>17 · Canvas Forge UI</sub><br><sub>查看<a href="docs/gallery.md">完整索引</a></sub></td>
   </tr>
 </table>
 
 ## 快速开始
 
-1. **先看案例。** 从 [16 个案例的画廊](docs/gallery.md) 开始，也可以按下方任务分类进入。
+1. **先看案例。** 从 [17 个案例的画廊](docs/gallery.md) 开始，也可以按下方任务分类进入。
 2. **阅读案例页。** 每页记录任务类型、视觉约束、输入图像或官方参考，以及可用时的重建提示词。
 3. **套用模板。** 复制 [提示词模板](docs/templates.md)，替换 `{subject}`、`{change}`、`{lock}`、`{style}`、`{copy}`、`{format}`，并把“要改什么”和“必须保持什么”分开写。
 4. **核对模型说明。** 在 [models.md](docs/models.md) 查看 Flare / Sunburst 的适用场景、图像参数和定日期的价格快照。
@@ -73,7 +73,7 @@
 
 ## 仓库内容
 
-- **16 个案例**：覆盖文生图、图像重建和定向图像编辑。
+- **17 个案例**：覆盖文生图、图像重建和定向图像编辑。
 - **官方参考图**：链接至公开发布 CDN；仓库为可用的重建结果预留本地路径。
 - **18 个提示词模板**：涵盖局部编辑、身份保持重绘、多轮评论、海报、邮票、请柬、演示文稿、产品图、贴纸、风格练习、编辑型字体海报和结构化信息图。
 - **模型与参数说明**：包含 ChatGPT Images 2.5、`gpt-image-2.5-flare`、`gpt-image-2.5-sunburst`。
