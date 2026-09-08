@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Cases](https://img.shields.io/badge/cases-17-111111)](docs/gallery.md)
+[![Cases](https://img.shields.io/badge/cases-18-111111)](docs/gallery.md)
 [![Templates](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![Updated](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -10,6 +10,12 @@ An open-source reference library for **ChatGPT Images 2.5** and the **GPT-Image-
 See the [official ChatGPT Images 2.5 announcement](https://openai.com/index/introducing-chatgpt-images-2-5/) for product context; this repository focuses on practical examples and reusable prompt patterns.
 
 [简体中文](README.zh-CN.md) · [Case gallery](docs/gallery.md) · [Prompt templates](docs/templates.md) · [Model guide](docs/models.md)
+
+### 18 · Desert Observatory Keyframe
+
+![GPT Image 2.5 desert observatory keyframe](assets/generated/18-desert-observatory-keyframe.png)
+
+[Read the prompt](docs/cases/18-desert-observatory-keyframe.md)
 
 ## Generated case gallery
 
@@ -62,7 +68,7 @@ These reconstruction images were generated in ChatGPT Web with GPT Image 2.5 fro
 
 ## Start here
 
-1. **Browse a visual example.** Start with the [17-case gallery](docs/gallery.md), or jump to a category below.
+1. **Browse a visual example.** Start with the [18-case gallery](docs/gallery.md), or jump to a category below.
 2. **Read the case page.** Each page records the task type, visual constraints, source image or official reference, and a reconstruction prompt when available.
 3. **Adapt a template.** Copy a [prompt template](docs/templates.md), replace its `{subject}`, `{change}`, `{lock}`, `{style}`, `{copy}`, or `{format}` slots, and keep the requested change separate from what must remain unchanged.
 4. **Check the model notes.** Use [models.md](docs/models.md) for the Flare / Sunburst split, image parameters, and the dated pricing snapshot.
@@ -81,7 +87,7 @@ The complete index is available in [docs/gallery.md](docs/gallery.md), with cate
 
 ## What is included
 
-- **17 documented cases** covering text-to-image, image reconstruction, and targeted image edits.
+- **18 documented cases** covering text-to-image, image reconstruction, and targeted image edits.
 - **Official reference stills** linked to the public launch CDN, paired with local reconstruction slots where generated files are available.
 - **18 reusable prompt templates** for local edits, identity-preserving restyles, multi-turn comments, posters, stamps, invitations, decks, pack shots, stickers, style studies, editorial typography, and structured infographics.
 - **Model and parameter notes** for ChatGPT Images 2.5, `gpt-image-2.5-flare`, and `gpt-image-2.5-sunburst`.

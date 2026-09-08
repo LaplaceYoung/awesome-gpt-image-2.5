@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![案例](https://img.shields.io/badge/cases-17-111111)](docs/gallery.md)
+[![案例](https://img.shields.io/badge/cases-18-111111)](docs/gallery.md)
 [![提示词模板](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![更新](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -10,6 +10,12 @@
 产品背景请参阅 [ChatGPT Images 2.5 官方公告](https://openai.com/index/introducing-chatgpt-images-2-5/)，本仓库聚焦可复用的实践案例与提示词结构。
 
 [English](README.md) · [案例画廊](docs/gallery.md) · [提示词模板](docs/templates.md) · [模型指南](docs/models.md)
+
+### 18 · 沙漠观测站关键帧
+
+![GPT Image 2.5 沙漠观测站关键帧](assets/generated/18-desert-observatory-keyframe.png)
+
+[查看提示词](docs/cases/18-desert-observatory-keyframe.md)
 
 ## 生成案例画廊
 
@@ -62,7 +68,7 @@
 
 ## 快速开始
 
-1. **先看案例。** 从 [17 个案例的画廊](docs/gallery.md) 开始，也可以按下方任务分类进入。
+1. **先看案例。** 从 [18 个案例的画廊](docs/gallery.md) 开始，也可以按下方任务分类进入。
 2. **阅读案例页。** 每页记录任务类型、视觉约束、输入图像或官方参考，以及可用时的重建提示词。
 3. **套用模板。** 复制 [提示词模板](docs/templates.md)，替换 `{subject}`、`{change}`、`{lock}`、`{style}`、`{copy}`、`{format}`，并把“要改什么”和“必须保持什么”分开写。
 4. **核对模型说明。** 在 [models.md](docs/models.md) 查看 Flare / Sunburst 的适用场景、图像参数和定日期的价格快照。
@@ -81,7 +87,7 @@
 
 ## 仓库内容
 
-- **17 个案例**：覆盖文生图、图像重建和定向图像编辑。
+- **18 个案例**：覆盖文生图、图像重建和定向图像编辑。
 - **官方参考图**：链接至公开发布 CDN；仓库为可用的重建结果预留本地路径。
 - **18 个提示词模板**：涵盖局部编辑、身份保持重绘、多轮评论、海报、邮票、请柬、演示文稿、产品图、贴纸、风格练习、编辑型字体海报和结构化信息图。
 - **模型与参数说明**：包含 ChatGPT Images 2.5、`gpt-image-2.5-flare`、`gpt-image-2.5-sunburst`。
