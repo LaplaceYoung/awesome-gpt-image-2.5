@@ -1,0 +1,18 @@
+{
+  "version": "2026-09-08",
+  "product": "ChatGPT Images 2.5",
+  "models": [
+    {"id": "gpt-image-2.5-flare", "role": "fast-default"},
+    {"id": "gpt-image-2.5-sunburst", "role": "precision"}
+  ],
+  "styles": [
+    {"id": "impressionist-cityscape", "gallery": "G-11", "template": "TPL-10"},
+    {"id": "cyberpunk", "gallery": "G-12", "template": "TPL-11"},
+    {"id": "retrofuturism", "gallery": "G-13", "template": "TPL-12"},
+    {"id": "sci-fi-surrealism", "gallery": "G-14", "template": "TPL-13"},
+    {"id": "eighties-headshot", "gallery": "G-15", "template": "TPL-14"},
+    {"id": "mid-century-poster", "gallery": "G-06", "template": "TPL-04"},
+    {"id": "park-stamps", "gallery": "G-07", "template": "TPL-05"},
+    {"id": "letterpress-invite", "gallery": "G-08", "template": "TPL-06"}
+  ]
+}
