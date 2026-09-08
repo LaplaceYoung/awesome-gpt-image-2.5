@@ -141,3 +141,7 @@ Markdown 页面提供可读上下文，JSON 文件提供稳定索引。每个案
 ## 许可证与署名
 
 仓库原创文档和提示词文本采用 [MIT License](LICENSE)。官方静帧来自公开发布文章和 Contentful CDN，本项目不对其重新授权。提示词仅作为起点，不保证生成结果、政策合规性或商业使用权；生成和编辑图像时请遵守最新 OpenAI 政策与适用法律。
+
+## 导入批次存档
+
+仓库同时保留本地 GPT Image 2.5 批次的 120 条 prompt 与 105 张生成图，详见 [docs/archive/gpt-image-25-run](docs/archive/gpt-image-25-run/)。

@@ -141,3 +141,7 @@ Issues and pull requests are welcome. To add a case or template, follow [CONTRIB
 ## License and attribution
 
 The repository's original documentation and prompt text are available under the [MIT License](LICENSE). Official stills are linked from the public launch post and Contentful CDN and are not relicensed by this project. Prompts are starting points; outputs, policy eligibility, and commercial clearance are not guaranteed. Follow the current OpenAI policies and applicable law when generating or editing images.
+
+## Imported batch archive
+
+The repository also includes an uncurated archive of 120 prompts and 105 generated images from the local GPT Image 2.5 run. See [docs/archive/gpt-image-25-run](docs/archive/gpt-image-25-run/).

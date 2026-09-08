@@ -1,0 +1,641 @@
+{
+ "1": {
+  "status": "done",
+  "file": "results/001.png",
+  "ms": 110905,
+  "bytes": 1337165
+ },
+ "2": {
+  "status": "done",
+  "file": "results/002.png",
+  "ms": 60671,
+  "bytes": 2188799
+ },
+ "3": {
+  "status": "done",
+  "file": "results/003.png",
+  "ms": 45820,
+  "bytes": 1804906
+ },
+ "4": {
+  "status": "done",
+  "file": "results/004.png",
+  "ms": 56381,
+  "bytes": 2472997
+ },
+ "5": {
+  "status": "done",
+  "file": "results/005.png",
+  "ms": 60991,
+  "bytes": 2105451
+ },
+ "6": {
+  "status": "done",
+  "file": "results/006.png",
+  "ms": 45850,
+  "bytes": 2155757
+ },
+ "7": {
+  "status": "done",
+  "file": "results/007.png",
+  "ms": 50661,
+  "bytes": 1791519
+ },
+ "8": {
+  "status": "done",
+  "file": "results/008.png",
+  "ms": 50630,
+  "bytes": 1875664
+ },
+ "9": {
+  "status": "done",
+  "file": "results/009.png",
+  "ms": 60733,
+  "bytes": 2936498
+ },
+ "10": {
+  "status": "done",
+  "file": "results/010.png",
+  "ms": 65646,
+  "bytes": 3125105
+ },
+ "11": {
+  "status": "done",
+  "file": "results/011.png",
+  "ms": 46722,
+  "bytes": 1553188
+ },
+ "12": {
+  "status": "done",
+  "file": "results/012.png",
+  "ms": 116428,
+  "bytes": 1860742
+ },
+ "13": {
+  "status": "done",
+  "file": "results/013.png",
+  "ms": 130889,
+  "bytes": 2302146
+ },
+ "14": {
+  "status": "done",
+  "file": "results/014.png",
+  "ms": 70788,
+  "bytes": 2005589
+ },
+ "15": {
+  "status": "done",
+  "file": "results/015.png",
+  "ms": 80847,
+  "bytes": 2916992
+ },
+ "16": {
+  "status": "done",
+  "file": "results/016.png",
+  "ms": 86727,
+  "bytes": 2400751
+ },
+ "17": {
+  "status": "done",
+  "file": "results/017.png",
+  "ms": 96623,
+  "bytes": 2923973
+ },
+ "18": {
+  "status": "done",
+  "file": "results/018.png",
+  "ms": 51535,
+  "bytes": 2108252
+ },
+ "19": {
+  "status": "done",
+  "file": "results/019.png",
+  "ms": 92173,
+  "bytes": 2660757
+ },
+ "20": {
+  "status": "done",
+  "file": "results/020.png",
+  "ms": 0,
+  "note": "smoke test"
+ },
+ "21": {
+  "status": "done",
+  "file": "results/021.png",
+  "ms": 66180,
+  "bytes": 2112847
+ },
+ "22": {
+  "status": "done",
+  "file": "results/022.png",
+  "ms": 167527,
+  "bytes": 2044639
+ },
+ "23": {
+  "status": "done",
+  "file": "results/023.png",
+  "ms": 46421,
+  "bytes": 1599833
+ },
+ "24": {
+  "status": "done",
+  "file": "results/024.png",
+  "ms": 101896,
+  "bytes": 2408696
+ },
+ "25": {
+  "status": "done",
+  "file": "results/025.png",
+  "ms": 61165,
+  "bytes": 2398095
+ },
+ "26": {
+  "status": "done",
+  "file": "results/026.png",
+  "ms": 56296,
+  "bytes": 1712957
+ },
+ "27": {
+  "status": "done",
+  "file": "results/027.png",
+  "ms": 76504,
+  "bytes": 1488997
+ },
+ "28": {
+  "status": "done",
+  "file": "results/028.png",
+  "ms": 61293,
+  "bytes": 2889504
+ },
+ "29": {
+  "status": "done",
+  "file": "results/029.png",
+  "ms": 61116,
+  "bytes": 1904018
+ },
+ "30": {
+  "status": "done",
+  "file": "results/030.png",
+  "ms": 61125,
+  "bytes": 1888407
+ },
+ "31": {
+  "status": "done",
+  "file": "results/031.png",
+  "ms": 41793,
+  "bytes": 811963
+ },
+ "32": {
+  "status": "done",
+  "file": "results/032.png",
+  "ms": 71129,
+  "bytes": 2449444
+ },
+ "33": {
+  "status": "done",
+  "file": "results/033.png",
+  "ms": 51168,
+  "bytes": 1779807
+ },
+ "34": {
+  "status": "done",
+  "file": "results/034.png",
+  "ms": 66583,
+  "bytes": 1851906
+ },
+ "35": {
+  "status": "done",
+  "file": "results/035.png",
+  "ms": 51100,
+  "bytes": 1902421
+ },
+ "36": {
+  "status": "done",
+  "file": "results/036.png",
+  "ms": 46210,
+  "bytes": 1313587
+ },
+ "37": {
+  "status": "done",
+  "file": "results/037.png",
+  "ms": 66387,
+  "bytes": 2752459
+ },
+ "38": {
+  "status": "done",
+  "file": "results/038.png",
+  "ms": 81637,
+  "bytes": 2910434
+ },
+ "39": {
+  "status": "done",
+  "file": "results/039.png",
+  "ms": 51470,
+  "bytes": 2392909
+ },
+ "40": {
+  "status": "done",
+  "file": "results/040.png",
+  "ms": 56184,
+  "bytes": 1896515
+ },
+ "41": {
+  "status": "done",
+  "file": "results/041.png",
+  "ms": 66659,
+  "bytes": 2215238
+ },
+ "42": {
+  "status": "done",
+  "file": "results/042.png",
+  "ms": 56272,
+  "bytes": 1802104
+ },
+ "43": {
+  "status": "done",
+  "file": "results/043.png",
+  "ms": 66525,
+  "bytes": 2176234
+ },
+ "44": {
+  "status": "done",
+  "file": "results/044.png",
+  "ms": 86448,
+  "bytes": 2650941
+ },
+ "45": {
+  "status": "done",
+  "file": "results/045.png",
+  "ms": 62611,
+  "bytes": 2257208
+ },
+ "46": {
+  "status": "done",
+  "file": "results/046.png",
+  "ms": 51010,
+  "bytes": 2677093
+ },
+ "47": {
+  "status": "done",
+  "file": "results/047.png",
+  "ms": 76398,
+  "bytes": 2881175
+ },
+ "48": {
+  "status": "done",
+  "file": "results/048.png",
+  "ms": 56253,
+  "bytes": 1859226
+ },
+ "49": {
+  "status": "done",
+  "file": "results/049.png",
+  "ms": 61232,
+  "bytes": 1541871
+ },
+ "50": {
+  "status": "done",
+  "file": "results/050.png",
+  "ms": 46483,
+  "bytes": 2257543
+ },
+ "51": {
+  "status": "done",
+  "file": "results/051.png",
+  "ms": 66942,
+  "bytes": 2670059
+ },
+ "52": {
+  "status": "done",
+  "file": "results/052.png",
+  "ms": 56407,
+  "bytes": 3065850
+ },
+ "53": {
+  "status": "done",
+  "file": "results/053.png",
+  "ms": 71880,
+  "bytes": 3030689
+ },
+ "54": {
+  "status": "done",
+  "file": "results/054.png",
+  "ms": 71978,
+  "bytes": 2419241
+ },
+ "55": {
+  "status": "done",
+  "file": "results/055.png",
+  "ms": 56397,
+  "bytes": 1920802
+ },
+ "56": {
+  "status": "done",
+  "file": "results/056.png",
+  "ms": 51676,
+  "bytes": 1285813
+ },
+ "57": {
+  "status": "done",
+  "file": "results/057.png",
+  "ms": 61896,
+  "bytes": 1496327
+ },
+ "58": {
+  "status": "done",
+  "file": "results/058.png",
+  "ms": 51585,
+  "bytes": 1987709
+ },
+ "59": {
+  "status": "done",
+  "file": "results/059.png",
+  "ms": 76849,
+  "bytes": 2790040
+ },
+ "60": {
+  "status": "done",
+  "file": "results/060.png",
+  "ms": 61813,
+  "bytes": 1957966
+ },
+ "61": {
+  "status": "done",
+  "file": "results/061.png",
+  "ms": 81984,
+  "bytes": 3424007
+ },
+ "62": {
+  "status": "done",
+  "file": "results/062.png",
+  "ms": 92602,
+  "bytes": 3111760
+ },
+ "63": {
+  "status": "done",
+  "file": "results/063.png",
+  "ms": 56431,
+  "bytes": 3543985
+ },
+ "64": {
+  "status": "done",
+  "file": "results/064.png",
+  "ms": 92468,
+  "bytes": 1314339
+ },
+ "65": {
+  "status": "done",
+  "file": "results/065.png",
+  "ms": 56609,
+  "bytes": 2122485
+ },
+ "66": {
+  "status": "done",
+  "file": "results/066.png",
+  "ms": 138048,
+  "bytes": 2736772
+ },
+ "67": {
+  "status": "done",
+  "file": "results/067.png",
+  "ms": 56774,
+  "bytes": 2164225
+ },
+ "68": {
+  "status": "done",
+  "file": "results/068.png",
+  "ms": 76639,
+  "bytes": 2835809
+ },
+ "69": {
+  "status": "done",
+  "file": "results/069.png",
+  "ms": 61873,
+  "bytes": 1978152
+ },
+ "70": {
+  "status": "done",
+  "file": "results/070.png",
+  "ms": 66776,
+  "bytes": 2459369
+ },
+ "71": {
+  "status": "done",
+  "file": "results/071.png",
+  "ms": 82329,
+  "bytes": 2044129
+ },
+ "72": {
+  "status": "done",
+  "file": "results/072.png",
+  "ms": 61667,
+  "bytes": 2106051
+ },
+ "73": {
+  "status": "done",
+  "file": "results/073.png",
+  "ms": 81932,
+  "bytes": 2315489
+ },
+ "74": {
+  "status": "done",
+  "file": "results/074.png",
+  "ms": 46431,
+  "bytes": 2172008
+ },
+ "75": {
+  "status": "done",
+  "file": "results/075.png",
+  "ms": 56421,
+  "bytes": 1496844
+ },
+ "76": {
+  "status": "done",
+  "file": "results/076.png",
+  "ms": 61398,
+  "bytes": 1744918
+ },
+ "77": {
+  "status": "done",
+  "file": "results/077.png",
+  "ms": 56769,
+  "bytes": 1764109
+ },
+ "78": {
+  "status": "done",
+  "file": "results/078.png",
+  "ms": 57010,
+  "bytes": 3425895
+ },
+ "79": {
+  "status": "done",
+  "file": "results/079.png",
+  "ms": 57312,
+  "bytes": 2186619
+ },
+ "80": {
+  "status": "done",
+  "file": "results/080.png",
+  "ms": 67364,
+  "bytes": 2108665
+ },
+ "81": {
+  "status": "done",
+  "file": "results/081.png",
+  "ms": 64387,
+  "bytes": 2039690
+ },
+ "82": {
+  "status": "done",
+  "file": "results/082.png",
+  "ms": 46439,
+  "bytes": 1954855
+ },
+ "83": {
+  "status": "done",
+  "file": "results/083.png",
+  "ms": 67109,
+  "bytes": 2224455
+ },
+ "84": {
+  "status": "done",
+  "file": "results/084.png",
+  "ms": 61584,
+  "bytes": 1823463
+ },
+ "85": {
+  "status": "done",
+  "file": "results/085.png",
+  "ms": 52404,
+  "bytes": 2332229
+ },
+ "86": {
+  "status": "done",
+  "file": "results/086.png",
+  "ms": 41724,
+  "bytes": 1794942
+ },
+ "87": {
+  "status": "done",
+  "file": "results/087.png",
+  "ms": 52078,
+  "bytes": 1772825
+ },
+ "88": {
+  "status": "done",
+  "file": "results/088.png",
+  "ms": 76549,
+  "bytes": 1896437
+ },
+ "89": {
+  "status": "done",
+  "file": "results/089.png",
+  "ms": 66522,
+  "bytes": 2147790
+ },
+ "90": {
+  "status": "done",
+  "file": "results/090.png",
+  "ms": 71922,
+  "bytes": 2610216
+ },
+ "91": {
+  "status": "done",
+  "file": "results/091.png",
+  "ms": 56785,
+  "bytes": 2234259
+ },
+ "92": {
+  "status": "done",
+  "file": "results/092.png",
+  "ms": 87324,
+  "bytes": 2927640
+ },
+ "93": {
+  "status": "done",
+  "file": "results/093.png",
+  "ms": 73050,
+  "bytes": 1753572
+ },
+ "94": {
+  "status": "done",
+  "file": "results/094.png",
+  "ms": 92618,
+  "bytes": 2840615
+ },
+ "95": {
+  "status": "done",
+  "file": "results/095.png",
+  "ms": 76658,
+  "bytes": 1914651
+ },
+ "96": {
+  "status": "done",
+  "file": "results/096.png",
+  "ms": 77282,
+  "bytes": 2429933
+ },
+ "97": {
+  "status": "done",
+  "file": "results/097.png",
+  "ms": 72006,
+  "bytes": 2876869
+ },
+ "98": {
+  "status": "done",
+  "file": "results/098.png",
+  "ms": 71491,
+  "bytes": 2625321
+ },
+ "99": {
+  "status": "done",
+  "file": "results/099.png",
+  "ms": 91302,
+  "bytes": 2307518
+ },
+ "100": {
+  "status": "done",
+  "file": "results/100.png",
+  "ms": 81121,
+  "bytes": 2903847
+ },
+ "101": {
+  "status": "done",
+  "file": "results/101.png",
+  "ms": 56536,
+  "bytes": 2258119
+ },
+ "102": {
+  "status": "done",
+  "file": "results/102.png",
+  "ms": 55908,
+  "bytes": 3244413
+ },
+ "103": {
+  "status": "pending",
+  "ms": 195470
+ },
+ "104": {
+  "status": "pending",
+  "err": "Error: send button not clickable",
+  "ms": 10097
+ },
+ "105": {
+  "status": "done",
+  "file": "results/105.png",
+  "ms": 135918,
+  "bytes": 2724575
+ },
+ "106": {
+  "status": "done",
+  "file": "results/106.png",
+  "ms": 70871,
+  "bytes": 3057916
+ },
+ "107": {
+  "status": "done",
+  "file": "results/107.png",
+  "ms": 90740,
+  "bytes": 3612438
+ }
+}
