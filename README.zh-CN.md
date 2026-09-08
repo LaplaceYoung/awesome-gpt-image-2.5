@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![案例](https://img.shields.io/badge/cases-16-111111)](docs/gallery.md)
-[![提示词模板](https://img.shields.io/badge/prompt%20templates-16-111111)](docs/templates.md)
+[![提示词模板](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![更新](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
 面向 **ChatGPT Images 2.5** 以及 **GPT-Image-2.5 Flare / Sunburst** 的开源视觉参考与提示词资料库。仓库整理了官方发布示例、图像生成与图像编辑案例、重建提示词、可复用模板和模型说明，方便检索、学习、评测与原型开发。
@@ -24,6 +24,33 @@
 - [面向 Agent 与搜索系统](#面向-agent-与搜索系统)
 - [参与贡献](#参与贡献)
 - [许可证与署名](#许可证与署名)
+
+## 生成案例画廊
+
+以下重建图由 ChatGPT Web 使用 GPT Image 2.5、根据对应案例页中的提示词生成。展示结构参考了 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)，每张图都链接回原始案例页，便于查看提示词和约束。
+
+<table>
+  <tr>
+    <td align="center"><a href="docs/cases/01-images2point5_16-9.md"><img src="assets/generated/01-images2point5_16-9.jpg" alt="ChatGPT Images 2.5 发布字标重建图" width="260"></a><br><sub>01 · 发布字标</sub></td>
+    <td align="center"><a href="docs/cases/06-mid-century-modern-posters.md"><img src="assets/generated/06-mid-century-modern-posters.jpg" alt="复古现代励志海报网格" width="260"></a><br><sub>06 · 海报网格</sub></td>
+    <td align="center"><a href="docs/cases/07-vintage-national-park-stamps.md"><img src="assets/generated/07-vintage-national-park-stamps.jpg" alt="复古国家公园邮票" width="260"></a><br><sub>07 · 国家公园邮票</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/cases/08-wedding-invitation.md"><img src="assets/generated/08-wedding-invitation.jpg" alt="欧洲复古婚礼请柬平铺图" width="260"></a><br><sub>08 · 婚礼请柬</sub></td>
+    <td align="center"><a href="docs/cases/09-presentation-image.md"><img src="assets/generated/09-presentation-image.jpg" alt="太阳耀斑科学演示文稿" width="260"></a><br><sub>09 · 科学演示文稿</sub></td>
+    <td align="center"><a href="docs/cases/11-impressionist-cityscape.md"><img src="assets/generated/11-impressionist-cityscape-a.jpg" alt="印象派旧金山城市景观" width="260"></a><br><sub>11A · 印象派城市</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/cases/11-impressionist-cityscape.md"><img src="assets/generated/11-impressionist-cityscape-b.jpg" alt="第二张印象派旧金山重建图" width="260"></a><br><sub>11B · 印象派城市</sub></td>
+    <td align="center"><a href="docs/cases/12-cyberpunk.md"><img src="assets/generated/12-cyberpunk.jpg" alt="蓝色克制赛博朋克城市" width="260"></a><br><sub>12 · 赛博朋克城市</sub></td>
+    <td align="center"><a href="docs/cases/13-retrofuturism.md"><img src="assets/generated/13-retrofuturism.jpg" alt="复古未来主义轨道殖民地" width="260"></a><br><sub>13 · 轨道殖民地</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/cases/15-80s-headshot.md"><img src="assets/generated/15-80s-headshot.jpg" alt="1980 年代摄影棚肖像" width="260"></a><br><sub>15A · 1980 年代肖像</sub></td>
+    <td align="center"><a href="docs/cases/15-80s-headshot.md"><img src="assets/generated/15-80s-headshot-alt.jpg" alt="另一张 1980 年代摄影棚肖像" width="260"></a><br><sub>15B · 1980 年代肖像</sub></td>
+    <td align="center"><em>更多案例即将加入</em><br><sub>查看<a href="docs/gallery.md">完整索引</a></sub></td>
+  </tr>
+</table>
 
 ## 快速开始
 
@@ -48,7 +75,7 @@
 
 - **16 个案例**：覆盖文生图、图像重建和定向图像编辑。
 - **官方参考图**：链接至公开发布 CDN；仓库为可用的重建结果预留本地路径。
-- **16 个提示词模板**：涵盖局部编辑、身份保持重绘、多轮评论、海报、邮票、请柬、演示文稿、产品图、贴纸和风格练习。
+- **18 个提示词模板**：涵盖局部编辑、身份保持重绘、多轮评论、海报、邮票、请柬、演示文稿、产品图、贴纸、风格练习、编辑型字体海报和结构化信息图。
 - **模型与参数说明**：包含 ChatGPT Images 2.5、`gpt-image-2.5-flare`、`gpt-image-2.5-sunburst`。
 - **机器可读目录**：[`data/cases.json`](data/cases.json) 与 [`data/style-library.json`](data/style-library.json) 可用于脚本、评测工具和 AI Agent。
 
@@ -79,7 +106,7 @@ API 模型名、质量与尺寸、背景、快照和价格快照见 [docs/models
 docs/gallery.md          可检索的案例索引与分类
 docs/cases/              每个案例一页，含元数据与提示词
 docs/compare.md          官方参考与重建文件对照
-docs/templates.md        可复用提示词（TPL-01 至 TPL-16）
+docs/templates.md        可复用提示词（TPL-01 至 TPL-18）
 docs/models.md           模型入口、参数与价格快照
 data/cases.json          机器可读案例目录
 data/style-library.json  风格、案例与模板的映射

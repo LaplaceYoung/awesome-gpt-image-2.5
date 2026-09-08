@@ -4,6 +4,30 @@ Slot convention: {subject}, {change}, {lock}, {style}, {copy}, {format}.
 
 Keep locks and changes in separate sentences.
 
+## Adapted prompt lineage
+
+The two templates below are rewritten for GPT Image 2.5 from prompt patterns published in [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2). The adaptation keeps the useful structure—explicit hierarchy, exact copy, and hard constraints—while adding GPT Image 2.5 guidance for single-image output, reference locking, and concise text.
+
+### TPL-17 Editorial typography poster (adapted)
+
+```prompt
+Create one finished editorial typography poster for the exact title: {copy}.
+The title is the visual subject: spell it exactly, keep it readable, and do not add unrelated headline text, mockups, moodboards, or process labels.
+Interpret the title as one visual metaphor. Build custom-looking letterforms through scale, spacing, weight, negative space, and restrained ink or paper texture rather than default decorative type.
+Use a clear hierarchy, a limited 4–6 color palette, strong whitespace, and one supporting subject only when it strengthens the meaning.
+Output one polished poster in {format}. Keep the composition intentional and legible at thumbnail size.
+```
+
+### TPL-18 Structured infographic (adapted)
+
+```prompt
+Create a single {format} infographic about {subject} for {audience}.
+Use a clear title, exactly {count} modules, and one visual relationship system such as arrows, a timeline, a comparison, or a process flow.
+Each module gets a short heading and one concise sentence. Render the supplied copy exactly; do not invent statistics or add filler paragraphs.
+Use {style}, a restrained color system, consistent spacing, and obvious reading order. Keep icons and diagrams subordinate to the information hierarchy.
+Output one finished infographic, not a collage, storyboard, or presentation of alternatives.
+```
+
 ## TPL-01 Local tidy
 
 Use the attached photo as the only source of truth for architecture, camera angle, and materials.

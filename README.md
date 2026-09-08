@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Cases](https://img.shields.io/badge/cases-16-111111)](docs/gallery.md)
-[![Templates](https://img.shields.io/badge/prompt%20templates-16-111111)](docs/templates.md)
+[![Templates](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![Updated](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
 An open-source reference library for **ChatGPT Images 2.5** and the **GPT-Image-2.5 Flare / Sunburst** image models. It brings together official launch stills, image-generation and image-editing case studies, reconstruction prompts, reusable prompt templates, and model notes in one searchable repository.
@@ -24,6 +24,33 @@ See the [official ChatGPT Images 2.5 announcement](https://openai.com/index/intr
 - [For agents and search systems](#for-agents-and-search-systems)
 - [Contributing](#contributing)
 - [License and attribution](#license-and-attribution)
+
+## Generated case gallery
+
+These reconstruction images were generated in ChatGPT Web with GPT Image 2.5 from the prompts in the linked case pages. The gallery uses the same compact visual index pattern as [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2), while keeping each asset traceable to its source prompt.
+
+<table>
+  <tr>
+    <td align="center"><a href="docs/cases/01-images2point5_16-9.md"><img src="assets/generated/01-images2point5_16-9.jpg" alt="ChatGPT Images 2.5 launch wordmark reconstruction" width="260"></a><br><sub>01 · Launch Wordmark</sub></td>
+    <td align="center"><a href="docs/cases/06-mid-century-modern-posters.md"><img src="assets/generated/06-mid-century-modern-posters.jpg" alt="Mid-century modern motivational poster grid" width="260"></a><br><sub>06 · Poster Grid</sub></td>
+    <td align="center"><a href="docs/cases/07-vintage-national-park-stamps.md"><img src="assets/generated/07-vintage-national-park-stamps.jpg" alt="Vintage national park postage stamp sheet" width="260"></a><br><sub>07 · National Park Stamps</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/cases/08-wedding-invitation.md"><img src="assets/generated/08-wedding-invitation.jpg" alt="Old-world European wedding invitation flat lay" width="260"></a><br><sub>08 · Wedding Invitation</sub></td>
+    <td align="center"><a href="docs/cases/09-presentation-image.md"><img src="assets/generated/09-presentation-image.jpg" alt="Science presentation slide about solar flares" width="260"></a><br><sub>09 · Science Deck</sub></td>
+    <td align="center"><a href="docs/cases/11-impressionist-cityscape.md"><img src="assets/generated/11-impressionist-cityscape-a.jpg" alt="Impressionist San Francisco cityscape" width="260"></a><br><sub>11A · Impressionist Cityscape</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/cases/11-impressionist-cityscape.md"><img src="assets/generated/11-impressionist-cityscape-b.jpg" alt="Second impressionist San Francisco cityscape reconstruction" width="260"></a><br><sub>11B · Impressionist Cityscape</sub></td>
+    <td align="center"><a href="docs/cases/12-cyberpunk.md"><img src="assets/generated/12-cyberpunk.jpg" alt="Restrained blue cyberpunk megacity at night" width="260"></a><br><sub>12 · Cyberpunk City</sub></td>
+    <td align="center"><a href="docs/cases/13-retrofuturism.md"><img src="assets/generated/13-retrofuturism.jpg" alt="Mid-century retrofuturist orbital colony" width="260"></a><br><sub>13 · Orbital Colony</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/cases/15-80s-headshot.md"><img src="assets/generated/15-80s-headshot.jpg" alt="1980s studio headshot reconstruction" width="260"></a><br><sub>15A · 1980s Headshot</sub></td>
+    <td align="center"><a href="docs/cases/15-80s-headshot.md"><img src="assets/generated/15-80s-headshot-alt.jpg" alt="Alternative 1980s studio headshot reconstruction" width="260"></a><br><sub>15B · 1980s Headshot</sub></td>
+    <td align="center"><em>More cases coming soon</em><br><sub>See the full <a href="docs/gallery.md">case index</a></sub></td>
+  </tr>
+</table>
 
 ## Start here
 
@@ -48,7 +75,7 @@ The complete index is available in [docs/gallery.md](docs/gallery.md), with cate
 
 - **16 documented cases** covering text-to-image, image reconstruction, and targeted image edits.
 - **Official reference stills** linked to the public launch CDN, paired with local reconstruction slots where generated files are available.
-- **16 reusable prompt templates** for local edits, identity-preserving restyles, multi-turn comments, posters, stamps, invitations, decks, pack shots, stickers, and style studies.
+- **18 reusable prompt templates** for local edits, identity-preserving restyles, multi-turn comments, posters, stamps, invitations, decks, pack shots, stickers, style studies, editorial typography, and structured infographics.
 - **Model and parameter notes** for ChatGPT Images 2.5, `gpt-image-2.5-flare`, and `gpt-image-2.5-sunburst`.
 - **Machine-readable catalogs** in [`data/cases.json`](data/cases.json) and [`data/style-library.json`](data/style-library.json), useful for scripts, evaluation harnesses, and AI agents.
 
@@ -79,7 +106,7 @@ For API names, quality and size options, background handling, snapshots, and the
 docs/gallery.md          searchable case index and categories
 docs/cases/              one page per still, with metadata and prompts
 docs/compare.md          official references and reconstruction files
-docs/templates.md        reusable prompt patterns (TPL-01 to TPL-16)
+docs/templates.md        reusable prompt patterns (TPL-01 to TPL-18)
 docs/models.md           model surfaces, parameters, and pricing snapshot
 data/cases.json          machine-readable case catalog
 data/style-library.json  style-to-case and style-to-template mappings
