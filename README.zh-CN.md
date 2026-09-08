@@ -1,30 +1,36 @@
 # Awesome GPT Image 2.5
 
-Official samples, structured prompts, and model notes for ChatGPT Images 2.5 and GPT-Image-2.5 Flare / Sunburst.
+面向 **ChatGPT Images 2.5** 以及 API 模型 **GPT-Image-2.5 Flare / Sunburst** 的官方样例、结构化提示词和型号说明。
 
-[English](README.md) | [Simplified Chinese](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md)
 
-## Official launch
+## 官方发布
 
-On 8 September 2026 OpenAI released ChatGPT Images 2.5: sharper detail, more reliable multi-turn local edits, up to about 50% lower latency versus Images 2.0, plus Sketch, Templates, image comments, and shareable prompts.
+2026 年 9 月 8 日，OpenAI 发布 ChatGPT Images 2.5：细节更锐、多轮局部编辑更稳、相对 Images 2.0 延迟最多约降 50%，并加入 Sketch、Templates、图片批注和可分享 prompt。
 
-- Blog: https://openai.com/index/introducing-chatgpt-images-2-5/
-- System card: https://deploymentsafety.openai.com/chatgpt-images-2-5
-- API: https://developers.openai.com/api/docs/guides/image-generation
+- 博客：https://openai.com/index/introducing-chatgpt-images-2-5/
+- 系统卡：https://deploymentsafety.openai.com/chatgpt-images-2-5
+- API：https://developers.openai.com/api/docs/guides/image-generation
 
-## Quick links
+## 快速入口
 
-- Official stills: docs/gallery.md
-- Prompt templates: docs/templates.md
-- Flare / Sunburst: docs/models.md
-- Agent skill: agents/skills/gpt-image-2.5-style-library/SKILL.md
-- Style JSON: data/style-library.json
-- Disclaimer: docs/disclaimer.md
+| 资源 | 路径 |
+| --- | --- |
+| 官方静帧 | [docs/gallery.md](docs/gallery.md) |
+| 提示词模板 | [docs/templates.md](docs/templates.md) |
+| Flare / Sunburst | [docs/models.md](docs/models.md) |
+| Agent Skill | [agents/skills/gpt-image-2.5-style-library/SKILL.md](agents/skills/gpt-image-2.5-style-library/SKILL.md) |
+| 风格库 JSON | [data/style-library.json](data/style-library.json) |
+| 声明 | [docs/disclaimer.md](docs/disclaimer.md) |
 
-## How to use
+## 怎么用
 
-1. Open docs/gallery.md and pick a close official still.
-2. Copy the nearest template from docs/templates.md.
-3. Use Flare for speed, Sunburst for lock-tight edits.
-4. Write identity, layout, and brand locks as separate sentences.
-5. Agents should read data/style-library.json or the skill file.
+1. 打开 docs/gallery.md，找接近目标的官方静帧。
+2. 从 docs/templates.md 拷最近的模板。
+3. 赶速度用 Flare，锁细节用 Sunburst。
+4. 身份、构图、品牌约束各写一句。
+5. Agent 读 data/style-library.json 或 skill 文件。
+
+## 开源协议
+
+MIT，见 LICENSE。
