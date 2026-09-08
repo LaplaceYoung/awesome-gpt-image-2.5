@@ -1,0 +1,25 @@
+# Case 13 — Orbital Colony Retrofuturism
+
+![Orbital Colony Retrofuturism](https://images.ctfassets.net/kftzwdyauwt9/5vY4gdGrJFxuwV8l6GBU03/94befc05806eb290e786473975b3b22b/retrofuturism.png)
+
+| Field | Value |
+| --- | --- |
+| File | `retrofuturism.png` |
+| Kind | `t2i` |
+| Category | Style lock |
+
+**Reconstruction prompt**
+
+```prompt
+An optimistic mid-century retrofuturist illustration of a family looking out from a gigantic orbital space habitat.
+Foreground left: a 1950s-style family of three seen from behind — father in a short-sleeve white shirt and dark trousers, mother in a simple pale-yellow sleeveless dress with neatly styled mid-century hair, and a young boy.
+They stand at a broad observation window, looking in wonder into the interior landscape of an enormous rotating cylindrical space colony.
+The cylinder contains a utopian Earth-like environment: lush green rolling hills, forests, farmland, blue lakes, small pristine towns, white modernist civic buildings, bridges and elegant spires.
+The inhabited landscape curves dramatically upward along the inside surface of the cylinder until it appears above the viewer, clearly communicating artificial gravity and colossal scale.
+A long bright structural axis runs toward the distant vanishing point. Through the left edge of the panoramic window, outer space is visible with a brilliant sun, stars and a small Earth-like planet.
+Visual style: 1950s-1960s space-age concept illustration, optimistic NASA settlement concept art, vintage Popular Science magazine painting, gouache and airbrush, soft printed-paper texture, warm cream, pale green, golden yellow and powder-blue palette.
+Grand wide-angle composition, strong one-point perspective, 16:9.
+No modern clothing, no dark dystopia, no cyberpunk, no contemporary spacecraft interiors.
+```
+
+[All cases](../gallery.md)
