@@ -52,6 +52,33 @@ These reconstruction images were generated in ChatGPT Web with GPT Image 2.5 fro
   </tr>
 </table>
 
+### Imported showcase highlights
+
+The unified case album also includes the imported GPT Image 2.5 collection. These highlights link directly to their prompt-and-image case pages; browse the [full gallery](docs/gallery.md) for all 138 cases.
+
+<table>
+  <tr>
+    <td align="center"><a href="docs/cases/019-imported-.md"><img src="assets/generated/019-imported-.png" alt="Imported GPT Image 2.5 case 19" width="260"></a><br><sub>19 · </sub></td>
+    <td align="center"><a href="docs/cases/020-imported-.md"><img src="assets/generated/020-imported-.png" alt="Imported GPT Image 2.5 case 20" width="260"></a><br><sub>20 · </sub></td>
+    <td align="center"><a href="docs/cases/021-imported-.md"><img src="assets/generated/021-imported-.png" alt="Imported GPT Image 2.5 case 21" width="260"></a><br><sub>21 · </sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/cases/022-imported-.md"><img src="assets/generated/022-imported-.png" alt="Imported GPT Image 2.5 case 22" width="260"></a><br><sub>22 · </sub></td>
+    <td align="center"><a href="docs/cases/023-imported-.md"><img src="assets/generated/023-imported-.png" alt="Imported GPT Image 2.5 case 23" width="260"></a><br><sub>23 · </sub></td>
+    <td align="center"><a href="docs/cases/024-imported-emoji.md"><img src="assets/generated/024-imported-emoji.png" alt="Imported GPT Image 2.5 case 24" width="260"></a><br><sub>24 · emoji</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/cases/025-imported-.md"><img src="assets/generated/025-imported-.png" alt="Imported GPT Image 2.5 case 25" width="260"></a><br><sub>25 · </sub></td>
+    <td align="center"><a href="docs/cases/026-imported-.md"><img src="assets/generated/026-imported-.png" alt="Imported GPT Image 2.5 case 26" width="260"></a><br><sub>26 · </sub></td>
+    <td align="center"><a href="docs/cases/027-imported-.md"><img src="assets/generated/027-imported-.png" alt="Imported GPT Image 2.5 case 27" width="260"></a><br><sub>27 · </sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/cases/028-imported-.md"><img src="assets/generated/028-imported-.png" alt="Imported GPT Image 2.5 case 28" width="260"></a><br><sub>28 · </sub></td>
+    <td align="center"><a href="docs/cases/029-imported-.md"><img src="assets/generated/029-imported-.png" alt="Imported GPT Image 2.5 case 29" width="260"></a><br><sub>29 · </sub></td>
+    <td align="center"><a href="docs/cases/030-imported-.md"><img src="assets/generated/030-imported-.png" alt="Imported GPT Image 2.5 case 30" width="260"></a><br><sub>30 · </sub></td>
+  </tr>
+</table>
+
 > **What is this repository?** A practical prompt and visual-reference library for learning, evaluating, and prototyping with GPT Image 2.5. It is documentation and sample data, not an API SDK, model checkpoint, or promise of identical outputs.
 
 ## Contents
