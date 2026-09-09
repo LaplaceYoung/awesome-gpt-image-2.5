@@ -92,6 +92,7 @@ The complete index is available in [docs/gallery.md](docs/gallery.md), with cate
 - **18 reusable prompt templates** for local edits, identity-preserving restyles, multi-turn comments, posters, stamps, invitations, decks, pack shots, stickers, style studies, editorial typography, and structured infographics.
 - **Model and parameter notes** for ChatGPT Images 2.5, `gpt-image-2.5-flare`, and `gpt-image-2.5-sunburst`.
 - **Machine-readable catalogs** in [`data/cases.json`](data/cases.json) and [`data/style-library.json`](data/style-library.json), useful for scripts, evaluation harnesses, and AI agents.
+- **Uncurated batch archive**: 120 prompts and 105 images under [`docs/archive/gpt-image-25-run`](docs/archive/gpt-image-25-run), governed by the local [`gpt-image-25-archive` skill](.codex/skills/gpt-image-25-archive/SKILL.md).
 
 ## A repeatable prompt workflow
 
