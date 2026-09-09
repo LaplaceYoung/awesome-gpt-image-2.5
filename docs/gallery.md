@@ -64,6 +64,7 @@ Machine index: [`data/cases.json`](../data/cases.json)
 | 141 | [Feishu Collaboration UI](cases/141-feishu-collaboration-ui.md) | t2i | UI and interfaces |
 | 142 | [Summer Beach Anime Duo](cases/142-summer-beach-anime-duo.md) | t2i | Characters and people |
 | 143 | [Laundry Room Anime Character](cases/143-laundry-room-anime.md) | t2i | Characters and people |
+| 144 | [Indoor Onsen Anime Illustration](cases/144-indoor-onsen-anime.md) | t2i | Characters and people |
 
 ## Imported showcase cases
 

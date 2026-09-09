@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![案例](https://img.shields.io/badge/cases-143-111111)](docs/gallery.md)
+[![案例](https://img.shields.io/badge/cases-144-111111)](docs/gallery.md)
 [![提示词模板](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![更新](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -11,27 +11,11 @@
 
 [English](README.md) · [案例画廊](docs/gallery.md) · [提示词模板](docs/templates.md) · [模型指南](docs/models.md)
 
-### 141 · 飞书企业协作界面
 
-![飞书风格深色企业协作桌面界面](assets/generated/141-feishu-collaboration-ui.png)
 
-[查看提示词](docs/cases/141-feishu-collaboration-ui.md)
 
-### 142 · 夏日海滩 Anime 双人图
 
-![两位成年 anime 女性在浅海中相拥](assets/generated/142-summer-beach-anime-duo.png)
-
-[查看提示词](docs/cases/142-summer-beach-anime-duo.md)
-
-### 143 · 洗衣房 Anime 角色
-
-![洗衣房中身穿未来感女仆装的成年 anime 女性](assets/generated/143-laundry-room-anime.png)
-
-[查看提示词](docs/cases/143-laundry-room-anime.md)
-
-## 生成案例画廊
-
-以下重建图由 ChatGPT Web 使用 GPT Image 2.5、根据对应案例页中的提示词生成。展示结构参考了 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)，每张图都链接回原始案例页，便于查看提示词和约束。
+## 官方案例
 
 ### 更多案例
 
@@ -58,27 +42,33 @@
   </tr>
 </table>
 
-### 最新导入案例
+### 最新案例（倒序）
 
-最新的 3 个有图片导入案例使用大图展示。
+### 144 · 室内温泉 Anime 插画
 
-<table><tr><td><a href="docs/cases/123-imported-.md"><img src="assets/generated/123-imported-.png" width="32%" alt="案例 123"></a></td><td><a href="docs/cases/124-imported-.md"><img src="assets/generated/124-imported-.png" width="32%" alt="案例 124"></a></td><td><a href="docs/cases/125-imported-.md"><img src="assets/generated/125-imported-.png" width="32%" alt="案例 125"></a></td></tr></table>
+![成年 anime 女性在温暖室内温泉中放松](assets/generated/144-indoor-onsen-anime.png)
 
-### 导入案例联系页
+[查看提示词](docs/cases/144-indoor-onsen-anime.md)
 
-其余导入图片合并为三张大图展示；三张联系页无缝展示全部导入图片，全部 140 个案例见[完整画廊](docs/gallery.md)。
+以下重建图由 ChatGPT Web 使用 GPT Image 2.5、根据对应案例页中的提示词生成。展示结构参考了 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)，每张图都链接回原始案例页，便于查看提示词和约束。
 
-![导入 GPT Image 2.5 案例 019–057](assets/generated/imported-contact-sheet-1.jpg)
+### 143 · 洗衣房 Anime 角色
 
-![导入 GPT Image 2.5 案例 058–091](assets/generated/imported-contact-sheet-2.jpg)
+![洗衣房中身穿未来感女仆装的成年 anime 女性](assets/generated/143-laundry-room-anime.png)
 
-![导入 GPT Image 2.5 案例 092–122](assets/generated/imported-contact-sheet-3.jpg)
+[查看提示词](docs/cases/143-laundry-room-anime.md)
 
-### 139 · AdRevival Storyboard
+### 142 · 夏日海滩 Anime 双人图
 
-![AdRevival Private Management 电影分镜板](assets/generated/139-adrevival-storyboard.png)
+![两位成年 anime 女性在浅海中相拥](assets/generated/142-summer-beach-anime-duo.png)
 
-[查看提示词](docs/cases/139-adrevival-storyboard.md)
+[查看提示词](docs/cases/142-summer-beach-anime-duo.md)
+
+### 141 · 飞书企业协作界面
+
+![飞书风格深色企业协作桌面界面](assets/generated/141-feishu-collaboration-ui.png)
+
+[查看提示词](docs/cases/141-feishu-collaboration-ui.md)
 
 ### 140 · X 开源 AI 指数界面
 
@@ -175,6 +165,30 @@ Markdown 页面提供可读上下文，JSON 文件提供稳定索引。每个案
 ## 许可证与署名
 
 仓库原创文档和提示词文本采用 [MIT License](LICENSE)。官方静帧来自公开发布文章和 Contentful CDN，本项目不对其重新授权。提示词仅作为起点，不保证生成结果、政策合规性或商业使用权；生成和编辑图像时请遵守最新 OpenAI 政策与适用法律。
+
+### 139 · AdRevival Storyboard
+
+![AdRevival Private Management 电影分镜板](assets/generated/139-adrevival-storyboard.png)
+
+[查看提示词](docs/cases/139-adrevival-storyboard.md)
+
+### 最新导入案例
+
+最新的 3 个有图片导入案例使用大图展示。
+
+<table><tr><td><a href="docs/cases/123-imported-.md"><img src="assets/generated/123-imported-.png" width="32%" alt="案例 123"></a></td><td><a href="docs/cases/124-imported-.md"><img src="assets/generated/124-imported-.png" width="32%" alt="案例 124"></a></td><td><a href="docs/cases/125-imported-.md"><img src="assets/generated/125-imported-.png" width="32%" alt="案例 125"></a></td></tr></table>
+
+### 导入案例联系页
+
+其余导入图片合并为三张大图展示；三张联系页无缝展示全部导入图片，全部 140 个案例见[完整画廊](docs/gallery.md)。
+
+![导入 GPT Image 2.5 案例 019–057](assets/generated/imported-contact-sheet-1.jpg)
+
+![导入 GPT Image 2.5 案例 058–091](assets/generated/imported-contact-sheet-2.jpg)
+
+![导入 GPT Image 2.5 案例 092–122](assets/generated/imported-contact-sheet-3.jpg)
+
+
 
 ### 案例画廊
 

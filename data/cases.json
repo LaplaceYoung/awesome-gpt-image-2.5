@@ -1144,6 +1144,14 @@
       "kind": "t2i",
       "category": "Characters and people",
       "path": "docs/cases/143-laundry-room-anime.md"
+    },
+    {
+      "id": 144,
+      "slug": "144-indoor-onsen-anime",
+      "title": "Indoor Onsen Anime Illustration",
+      "kind": "t2i",
+      "category": "Characters and people",
+      "path": "docs/cases/144-indoor-onsen-anime.md"
     }
   ]
 }
