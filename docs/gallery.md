@@ -21,6 +21,7 @@ Official ChatGPT Images 2.5 stills. Each case is one page: preview, metadata, of
 | 15 | [1980s Studio Headshot](cases/15-80s-headshot.md) | edit | Character |
 | 16 | [Earth Mosaic](cases/16-mosaic.md) | t2i | Style lock |
 | 17 | [Canvas Forge UI Screenshot](cases/17-canvas-forge-ui.md) | t2i | UI and interfaces |
+| 18 | [Desert Observatory Keyframe](cases/18-desert-observatory-keyframe.md) | t2i | Scenes and storytelling |
 
 ## By category
 
@@ -44,6 +45,7 @@ Official ChatGPT Images 2.5 stills. Each case is one page: preview, metadata, of
 - [10 Stickers](cases/10-stickers.md)
 - [15 1980s headshot](cases/15-80s-headshot.md)
 - [17 Canvas Forge UI](cases/17-canvas-forge-ui.md)
+- [18 Desert Observatory](cases/18-desert-observatory-keyframe.md)
 
 ### Style lock
 

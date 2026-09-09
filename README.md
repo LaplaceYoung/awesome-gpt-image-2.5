@@ -129,6 +129,19 @@ assets/official/         compressed official reference stills
 assets/generated/        reconstruction outputs when checked in
 ```
 
+### Case album
+
+Browse the curated visual index in [docs/gallery.md](docs/gallery.md); each case page keeps its image, metadata, and prompt together.
+
+### Prompt library
+
+Reusable patterns live in [docs/templates.md](docs/templates.md) and [docs/prompts/](docs/prompts/).
+
+### Batch archive
+
+The 120-prompt / 105-image import is isolated under [docs/archive/gpt-image-25-run](docs/archive/gpt-image-25-run/) and [assets/archive/gpt-image-25-run](assets/archive/gpt-image-25-run/).
+
+
 ## For agents and search systems
 
 Use the Markdown pages for human-readable context and the JSON files for deterministic indexing. Each case has a stable numeric ID, slug, title, task kind, category, and documentation path. The style catalog maps named styles to gallery cases and prompt templates. This makes the repository suitable for retrieval-augmented generation, prompt evaluation, dataset bootstrapping, and internal image-generation experiments.
