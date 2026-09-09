@@ -11,21 +11,9 @@
 
 [English](README.md) · [案例画廊](docs/gallery.md) · [提示词模板](docs/templates.md) · [模型指南](docs/models.md)
 
-### 18 · 沙漠观测站关键帧
-
-![GPT Image 2.5 沙漠观测站关键帧](assets/generated/18-desert-observatory-keyframe.png)
-
-[查看提示词](docs/cases/18-desert-observatory-keyframe.md)
-
 ## 生成案例画廊
 
 以下重建图由 ChatGPT Web 使用 GPT Image 2.5、根据对应案例页中的提示词生成。展示结构参考了 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)，每张图都链接回原始案例页，便于查看提示词和约束。
-
-### 17 · Canvas Forge 工作台界面
-
-![Canvas Forge 工作台：图像预览、提示词编辑区与参数面板](assets/generated/17-canvas-forge-ui.jpg)
-
-[查看完整提示词与来源](docs/cases/17-canvas-forge-ui.md)
 
 ### 更多案例
 
@@ -52,17 +40,9 @@
   </tr>
 </table>
 
-### 最新导入案例
-
-最新的 3 个有图片案例使用大图展示，便于快速对比。
-
-| 案例 123 | 案例 124 | 案例 125 |
-| --- | --- | --- |
-| [![案例 123](assets/generated/123-imported-.png)](docs/cases/123-imported-.md) | [![案例 124](assets/generated/124-imported-.png)](docs/cases/124-imported-.md) | [![案例 125](assets/generated/125-imported-.png)](docs/cases/125-imported-.md) |
-
 ### 导入案例联系页
 
-其余导入图片合并为三张大图展示；缩略图通过文件名保持可追溯，全部 138 个案例见[完整画廊](docs/gallery.md)。
+其余导入图片合并为三张大图展示；三张联系页无缝展示全部导入图片，全部 138 个案例见[完整画廊](docs/gallery.md)。
 
 ![导入 GPT Image 2.5 案例 019–057](assets/generated/imported-contact-sheet-1.jpg)
 

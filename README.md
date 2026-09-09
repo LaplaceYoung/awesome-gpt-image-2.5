@@ -11,21 +11,9 @@ See the [official ChatGPT Images 2.5 announcement](https://openai.com/index/intr
 
 [简体中文](README.zh-CN.md) · [Case gallery](docs/gallery.md) · [Prompt templates](docs/templates.md) · [Model guide](docs/models.md)
 
-### 18 · Desert Observatory Keyframe
-
-![GPT Image 2.5 desert observatory keyframe](assets/generated/18-desert-observatory-keyframe.png)
-
-[Read the prompt](docs/cases/18-desert-observatory-keyframe.md)
-
 ## Generated case gallery
 
 These reconstruction images were generated in ChatGPT Web with GPT Image 2.5 from the prompts in the linked case pages. The gallery uses the same compact visual index pattern as [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2), while keeping each asset traceable to its source prompt.
-
-### 17 · Canvas Forge UI
-
-![Canvas Forge workbench with image preview, prompt editor, and generation controls](assets/generated/17-canvas-forge-ui.jpg)
-
-[Read the full prompt and source](docs/cases/17-canvas-forge-ui.md)
 
 ### More examples
 
@@ -52,17 +40,9 @@ These reconstruction images were generated in ChatGPT Web with GPT Image 2.5 fro
   </tr>
 </table>
 
-### Latest imported cases
-
-The newest image-backed cases are shown at full size for quick comparison.
-
-| Case 123 | Case 124 | Case 125 |
-| --- | --- | --- |
-| [![Case 123](assets/generated/123-imported-.png)](docs/cases/123-imported-.md) | [![Case 124](assets/generated/124-imported-.png)](docs/cases/124-imported-.md) | [![Case 125](assets/generated/125-imported-.png)](docs/cases/125-imported-.md) |
-
 ### Imported case contact sheets
 
-All other imported generated images are grouped into three large contact sheets. Each thumbnail remains traceable by its filename; the [full 138-case gallery](docs/gallery.md) links every prompt page.
+All other imported generated images are grouped into three large contact sheets. The three contact sheets show every imported image without gaps; use the [full 138-case gallery](docs/gallery.md) to open each prompt page.
 
 ![Imported GPT Image 2.5 cases 019–057](assets/generated/imported-contact-sheet-1.jpg)
 
