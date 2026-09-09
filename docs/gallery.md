@@ -60,6 +60,8 @@ Machine index: [`data/cases.json`](../data/cases.json)
 
 | 139 | [AdRevival Private Management Storyboard](cases/139-adrevival-storyboard.md) | t2i | Storyboards and advertising |
 
+| 140 | [X Open Source AI Index UI](cases/140-x-open-source-ai-index.md) | t2i | UI and interfaces |
+
 ## Imported showcase cases
 
 These cases are part of the same case album; they retain their source batch IDs for traceability.

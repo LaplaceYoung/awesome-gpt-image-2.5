@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Cases](https://img.shields.io/badge/cases-139-111111)](docs/gallery.md)
+[![Cases](https://img.shields.io/badge/cases-140-111111)](docs/gallery.md)
 [![Templates](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![Updated](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -62,6 +62,12 @@ All other imported generated images are grouped into three large contact sheets.
 
 [Read the prompt](docs/cases/139-adrevival-storyboard.md)
 
+### 140 · X Open Source AI Index UI
+
+![X desktop dark-mode open source AI index interface](assets/generated/140-x-open-source-ai-index.png)
+
+[Read the prompt](docs/cases/140-x-open-source-ai-index.md)
+
 > **What is this repository?** A practical prompt and visual-reference library for learning, evaluating, and prototyping with GPT Image 2.5. It is documentation and sample data, not an API SDK, model checkpoint, or promise of identical outputs.
 
 ## Contents
@@ -97,7 +103,7 @@ The complete index is available in [docs/gallery.md](docs/gallery.md), with cate
 
 ## What is included
 
-- **139 documented cases** covering text-to-image, image reconstruction, and targeted image edits.
+- **140 documented cases** covering text-to-image, image reconstruction, and targeted image edits.
 - **Official reference stills** linked to the public launch CDN, paired with local reconstruction slots where generated files are available.
 - **18 reusable prompt templates** for local edits, identity-preserving restyles, multi-turn comments, posters, stamps, invitations, decks, pack shots, stickers, style studies, editorial typography, and structured infographics.
 - **Model and parameter notes** for ChatGPT Images 2.5, `gpt-image-2.5-flare`, and `gpt-image-2.5-sunburst`.

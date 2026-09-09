@@ -1112,6 +1112,14 @@
       "kind": "t2i",
       "category": "Storyboards and advertising",
       "path": "docs/cases/139-adrevival-storyboard.md"
+    },
+    {
+      "id": 140,
+      "slug": "140-x-open-source-ai-index",
+      "title": "X Open Source AI Index UI",
+      "kind": "t2i",
+      "category": "UI and interfaces",
+      "path": "docs/cases/140-x-open-source-ai-index.md"
     }
   ]
 }
