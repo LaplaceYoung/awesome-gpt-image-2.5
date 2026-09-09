@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Cases](https://img.shields.io/badge/cases-142-111111)](docs/gallery.md)
+[![Cases](https://img.shields.io/badge/cases-143-111111)](docs/gallery.md)
 [![Templates](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![Updated](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -22,6 +22,12 @@ See the [official ChatGPT Images 2.5 announcement](https://openai.com/index/intr
 ![Two adult anime women embracing in shallow summer seawater](assets/generated/142-summer-beach-anime-duo.png)
 
 [Read the prompt](docs/cases/142-summer-beach-anime-duo.md)
+
+### 143 · Laundry Room Anime Character
+
+![Adult anime woman in a futuristic maid uniform in a laundry room](assets/generated/143-laundry-room-anime.png)
+
+[Read the prompt](docs/cases/143-laundry-room-anime.md)
 
 ## Generated case gallery
 

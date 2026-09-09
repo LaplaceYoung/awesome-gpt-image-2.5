@@ -1136,6 +1136,14 @@
       "kind": "t2i",
       "category": "Characters and people",
       "path": "docs/cases/142-summer-beach-anime-duo.md"
+    },
+    {
+      "id": 143,
+      "slug": "143-laundry-room-anime",
+      "title": "Laundry Room Anime Character",
+      "kind": "t2i",
+      "category": "Characters and people",
+      "path": "docs/cases/143-laundry-room-anime.md"
     }
   ]
 }

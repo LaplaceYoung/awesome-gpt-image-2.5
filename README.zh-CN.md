@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![案例](https://img.shields.io/badge/cases-142-111111)](docs/gallery.md)
+[![案例](https://img.shields.io/badge/cases-143-111111)](docs/gallery.md)
 [![提示词模板](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![更新](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -22,6 +22,12 @@
 ![两位成年 anime 女性在浅海中相拥](assets/generated/142-summer-beach-anime-duo.png)
 
 [查看提示词](docs/cases/142-summer-beach-anime-duo.md)
+
+### 143 · 洗衣房 Anime 角色
+
+![洗衣房中身穿未来感女仆装的成年 anime 女性](assets/generated/143-laundry-room-anime.png)
+
+[查看提示词](docs/cases/143-laundry-room-anime.md)
 
 ## 生成案例画廊
 
