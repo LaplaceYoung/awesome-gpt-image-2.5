@@ -1152,6 +1152,14 @@
       "kind": "t2i",
       "category": "Characters and people",
       "path": "docs/cases/144-indoor-onsen-anime.md"
+    },
+    {
+      "id": 145,
+      "slug": "145-low-angle-fashion-study",
+      "title": "Low-angle Fashion Study",
+      "kind": "t2i",
+      "category": "Photography and realism",
+      "path": "docs/cases/145-low-angle-fashion-study.md"
     }
   ]
 }

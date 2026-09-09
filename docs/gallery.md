@@ -65,6 +65,7 @@ Machine index: [`data/cases.json`](../data/cases.json)
 | 142 | [Summer Beach Anime Duo](cases/142-summer-beach-anime-duo.md) | t2i | Characters and people |
 | 143 | [Laundry Room Anime Character](cases/143-laundry-room-anime.md) | t2i | Characters and people |
 | 144 | [Indoor Onsen Anime Illustration](cases/144-indoor-onsen-anime.md) | t2i | Characters and people |
+| 145 | [Low-angle Fashion Study](cases/145-low-angle-fashion-study.md) | t2i | Photography and realism |
 
 ## Imported showcase cases
 

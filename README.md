@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Cases](https://img.shields.io/badge/cases-144-111111)](docs/gallery.md)
+[![Cases](https://img.shields.io/badge/cases-145-111111)](docs/gallery.md)
 [![Templates](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![Updated](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -14,6 +14,12 @@ See the [official ChatGPT Images 2.5 announcement](https://openai.com/index/intr
 
 
 
+
+### 145 · Low-angle Fashion Study
+
+![Adult woman in a leather armchair photographed from a dramatic low angle](assets/generated/145-low-angle-fashion-study.png)
+
+[Read the prompt](docs/cases/145-low-angle-fashion-study.md)
 
 ## Official examples
 

@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![案例](https://img.shields.io/badge/cases-144-111111)](docs/gallery.md)
+[![案例](https://img.shields.io/badge/cases-145-111111)](docs/gallery.md)
 [![提示词模板](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![更新](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -14,6 +14,12 @@
 
 
 
+
+### 145 · 低机位时尚肖像
+
+![成年女性坐在皮革扶手椅中的低机位时尚肖像](assets/generated/145-low-angle-fashion-study.png)
+
+[查看提示词](docs/cases/145-low-angle-fashion-study.md)
 
 ## 官方案例
 
