@@ -1,6 +1,13 @@
 # Prompt templates
 
-A distilled template library derived from the 120 imported GPT Image 2.5 prompts and the curated cases. Replace bracketed slots; keep the change sentence separate from locked details.
+A multi-pack template library distilled from the 120 imported GPT Image 2.5 prompts and the curated cases. Choose a pack by task, then replace bracketed slots; keep the change sentence separate from locked details.
+
+## Template packs
+
+- **Design & information**: posters, UI screenshots, infographics, diagrams, and social cards.
+- **Commerce & brand**: product campaigns, packaging, and label systems.
+- **Characters & scenes**: character sheets, cinematic keyframes, and miniature dioramas.
+- **Editing & consistency**: style transfer and scoped edits.
 
 ## 1. Editorial poster
 
