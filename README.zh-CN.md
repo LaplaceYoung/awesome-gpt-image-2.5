@@ -144,4 +144,4 @@ Markdown 页面提供可读上下文，JSON 文件提供稳定索引。每个案
 
 ## 导入批次存档
 
-仓库同时保留本地 GPT Image 2.5 批次的 120 条 prompt 与 105 张生成图，详见 [docs/archive/gpt-image-25-run](docs/archive/gpt-image-25-run/)。
+仓库同时保留本地 GPT Image 2.5 批次的 120 条 prompt 与 105 张生成图，详见 [docs/archive/gpt-image-25-run](docs/archive/gpt-image-25-run/)。 归档规则见 [gpt-image-25-archive Skill](.codex/skills/gpt-image-25-archive/SKILL.md)。
