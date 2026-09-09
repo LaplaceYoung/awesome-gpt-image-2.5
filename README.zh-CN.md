@@ -52,32 +52,23 @@
   </tr>
 </table>
 
-### 导入案例精选
+### 最新导入案例
 
-统一案例画廊还包含导入的 GPT Image 2.5 案例。以下精选图直接链接到对应的 prompt 与图片页面；全部 138 个案例请查看[完整画廊](docs/gallery.md)。
+最新的 3 个有图片案例使用大图展示，便于快速对比。
 
-<table>
-  <tr>
-    <td align="center"><a href="docs/cases/019-imported-.md"><img src="assets/generated/019-imported-.png" alt="Imported GPT Image 2.5 case 19" width="260"></a><br><sub>19 · </sub></td>
-    <td align="center"><a href="docs/cases/020-imported-.md"><img src="assets/generated/020-imported-.png" alt="Imported GPT Image 2.5 case 20" width="260"></a><br><sub>20 · </sub></td>
-    <td align="center"><a href="docs/cases/021-imported-.md"><img src="assets/generated/021-imported-.png" alt="Imported GPT Image 2.5 case 21" width="260"></a><br><sub>21 · </sub></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="docs/cases/022-imported-.md"><img src="assets/generated/022-imported-.png" alt="Imported GPT Image 2.5 case 22" width="260"></a><br><sub>22 · </sub></td>
-    <td align="center"><a href="docs/cases/023-imported-.md"><img src="assets/generated/023-imported-.png" alt="Imported GPT Image 2.5 case 23" width="260"></a><br><sub>23 · </sub></td>
-    <td align="center"><a href="docs/cases/024-imported-emoji.md"><img src="assets/generated/024-imported-emoji.png" alt="Imported GPT Image 2.5 case 24" width="260"></a><br><sub>24 · emoji</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="docs/cases/025-imported-.md"><img src="assets/generated/025-imported-.png" alt="Imported GPT Image 2.5 case 25" width="260"></a><br><sub>25 · </sub></td>
-    <td align="center"><a href="docs/cases/026-imported-.md"><img src="assets/generated/026-imported-.png" alt="Imported GPT Image 2.5 case 26" width="260"></a><br><sub>26 · </sub></td>
-    <td align="center"><a href="docs/cases/027-imported-.md"><img src="assets/generated/027-imported-.png" alt="Imported GPT Image 2.5 case 27" width="260"></a><br><sub>27 · </sub></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="docs/cases/028-imported-.md"><img src="assets/generated/028-imported-.png" alt="Imported GPT Image 2.5 case 28" width="260"></a><br><sub>28 · </sub></td>
-    <td align="center"><a href="docs/cases/029-imported-.md"><img src="assets/generated/029-imported-.png" alt="Imported GPT Image 2.5 case 29" width="260"></a><br><sub>29 · </sub></td>
-    <td align="center"><a href="docs/cases/030-imported-.md"><img src="assets/generated/030-imported-.png" alt="Imported GPT Image 2.5 case 30" width="260"></a><br><sub>30 · </sub></td>
-  </tr>
-</table>
+| 案例 123 | 案例 124 | 案例 125 |
+| --- | --- | --- |
+| [![案例 123](assets/generated/123-imported-.png)](docs/cases/123-imported-.md) | [![案例 124](assets/generated/124-imported-.png)](docs/cases/124-imported-.md) | [![案例 125](assets/generated/125-imported-.png)](docs/cases/125-imported-.md) |
+
+### 导入案例联系页
+
+其余导入图片合并为三张大图展示；缩略图通过文件名保持可追溯，全部 138 个案例见[完整画廊](docs/gallery.md)。
+
+![导入 GPT Image 2.5 案例 019–057](assets/generated/imported-contact-sheet-1.jpg)
+
+![导入 GPT Image 2.5 案例 058–091](assets/generated/imported-contact-sheet-2.jpg)
+
+![导入 GPT Image 2.5 案例 092–122](assets/generated/imported-contact-sheet-3.jpg)
 
 > **这是什么？** 一个用于学习和实践 GPT Image 2.5 的提示词与视觉参考库，包含文档和示例数据；它不是 API SDK、模型权重，也不保证每次生成得到完全相同的结果。
 
