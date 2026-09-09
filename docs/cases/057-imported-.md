@@ -1,0 +1,15 @@
+# Case 057 — 时尚杂志封面风格
+
+| Field | Value |
+| --- | --- |
+| Kind | t2i |
+| Category | Imported showcase |
+| Model | GPT Image 2.5 batch |
+| Source record | `prompts.json` id 39, source `jb-49` |
+| Output | [`assets/generated/057-imported-.png`](../../assets/generated/057-imported-.png) |
+
+## Prompt
+
+```prompt
+时尚杂志封面风格大片：一位东方女性身穿粉色改良旗袍，头戴精致花饰，秀发中点缀色彩缤纷的花朵，颈间装饰优雅的白色蕾丝领，一只手轻托着几只大型蝴蝶。整体高清细节质感，画面上方中央标有刊名文字「FASHION DESIGN」，背景为简约的纯浅灰色以突出人物主体，3:4 竖版。
+```

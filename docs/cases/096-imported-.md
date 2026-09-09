@@ -1,0 +1,15 @@
+# Case 096 — 古代藏宝图
+
+| Field | Value |
+| --- | --- |
+| Kind | t2i |
+| Category | Imported showcase |
+| Model | GPT Image 2.5 batch |
+| Source record | `prompts.json` id 78, source `jb-91` |
+| Output | [`assets/generated/096-imported-.png`](../../assets/generated/096-imported-.png) |
+
+## Prompt
+
+```prompt
+绘制一张画在古老羊皮纸上的虚构海岛藏宝图：羊皮纸带烧焦的边缘、折痕与咖啡渍。图上绘制详细元素——海面上的帆船、海岸线上的古老港口、山脉、棕榈树和装饰性的罗盘玫瑰；一条虚线路径从码头蜿蜒通向标注大「X」的宝藏点，X 旁插着一面小骷髅旗。整体风格让人联想到旧时海盗冒险电影，地图角落用褪色墨水写着「无人岛 · 藏宝图 No.7」。
+```

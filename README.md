@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Cases](https://img.shields.io/badge/cases-18-111111)](docs/gallery.md)
+[![Cases](https://img.shields.io/badge/cases-138-111111)](docs/gallery.md)
 [![Templates](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![Updated](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -87,12 +87,12 @@ The complete index is available in [docs/gallery.md](docs/gallery.md), with cate
 
 ## What is included
 
-- **18 documented cases** covering text-to-image, image reconstruction, and targeted image edits.
+- **138 documented cases** covering text-to-image, image reconstruction, and targeted image edits.
 - **Official reference stills** linked to the public launch CDN, paired with local reconstruction slots where generated files are available.
 - **18 reusable prompt templates** for local edits, identity-preserving restyles, multi-turn comments, posters, stamps, invitations, decks, pack shots, stickers, style studies, editorial typography, and structured infographics.
 - **Model and parameter notes** for ChatGPT Images 2.5, `gpt-image-2.5-flare`, and `gpt-image-2.5-sunburst`.
 - **Machine-readable catalogs** in [`data/cases.json`](data/cases.json) and [`data/style-library.json`](data/style-library.json), useful for scripts, evaluation harnesses, and AI agents.
-- **Uncurated batch archive**: 120 prompts and 105 images under [`docs/archive/gpt-image-25-run`](docs/archive/gpt-image-25-run), governed by the local [`gpt-image-25-archive` skill](.codex/skills/gpt-image-25-archive/SKILL.md).
+- **Imported case collection**: 120 additional prompts and 105 additional images under [`docs/cases`](docs/cases), governed by the local [`gpt-image-25-archive` skill](.codex/skills/gpt-image-25-archive/SKILL.md).
 
 ## A repeatable prompt workflow
 
@@ -139,7 +139,7 @@ Reusable patterns live in [docs/templates.md](docs/templates.md) and [docs/promp
 
 ### Batch archive
 
-The 120-prompt / 105-image import is isolated under [docs/archive/gpt-image-25-run](docs/archive/gpt-image-25-run/) and [assets/archive/gpt-image-25-run](assets/archive/gpt-image-25-run/).
+The 120-prompt / 105-image import is isolated under [docs/cases](docs/cases/) and [assets/generated](assets/generated/).
 
 
 ## For agents and search systems
@@ -158,4 +158,4 @@ The repository's original documentation and prompt text are available under the 
 
 ## Imported batch archive
 
-The repository also includes an uncurated archive of 120 prompts and 105 generated images from the local GPT Image 2.5 run. See [docs/archive/gpt-image-25-run](docs/archive/gpt-image-25-run/).
+The repository also includes an uncurated archive of 120 prompts and 105 generated images from the local GPT Image 2.5 run. See [docs/cases](docs/cases/).

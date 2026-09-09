@@ -9,19 +9,19 @@ Use this skill when adding, reviewing, or exporting the uncurated GPT Image 2.5 
 
 ## Scope
 
-- Prompt catalog: `docs/archive/gpt-image-25-run/prompts.json`
-- Generated assets: `assets/archive/gpt-image-25-run/`
-- Archive index: `docs/archive/gpt-image-25-run/README.md`
-- Source notes: `docs/archive/gpt-image-25-run/sources/`
+- Prompt records: `docs/cases/` (imported cases 019–138)
+- Generated assets: `assets/generated/`
+- Case index: `docs/gallery.md`
+- Source notes: `docs/twitter-showcases.md`
 
 ## Workflow
 
-1. Read the prompt record from `prompts.json`; preserve its numeric `id`, `title`, and `prompt`.
+1. Read the case page from `docs/cases/`; preserve its numeric ID, title, and prompt.
 2. Match an image by zero-padded filename (`001.png` through `107.png`) when the result exists.
-3. Keep imported material under `assets/archive/` and `docs/archive/`; curated examples belong under `assets/generated/` and `docs/cases/`.
+3. Keep every case page under `docs/cases/` and every generated image under `assets/generated/`; use the `Imported showcase` category for provenance.
 4. Add attribution and source URLs when a prompt or image came from a public collection.
 5. Mark any visual reconstruction as `reverse-engineered`; never label inferred wording as an author's original prompt.
-6. Update the archive README when records or filenames change.
+6. Update `docs/gallery.md` and `data/cases.json` when records or filenames change.
 
 ## Validation
 

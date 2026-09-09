@@ -1,0 +1,15 @@
+# Case 119 — 冬日暮色中的灯笼摄影
+
+| Field | Value |
+| --- | --- |
+| Kind | t2i |
+| Category | Imported showcase |
+| Model | GPT Image 2.5 batch |
+| Source record | `prompts.json` id 101, source `ym-53` |
+| Output | [`assets/generated/119-imported-.png`](../../assets/generated/119-imported-.png) |
+
+## Prompt
+
+```prompt
+{ "title": "{argument name=\"title\" default=\"冬日暮色中的灯笼\"}", "scene": "暮色中宁静的冬日森林。柔和的雪花从天空中轻轻飘落，周围的树木隐没在梦幻般的蓝色冬日雾气中。", "subject": "{argument name=\"subject\" default=\"一位年轻女性独自站在飘落的雪花下，身穿一件米色长款羊毛大衣，围着厚实的针织围巾。她神情平静安详，将一盏发光的复古灯笼轻轻抱在胸前。\"}", "detail": "温暖的灯光照亮了她的脸庞，并映照出飘落的雪花，营造出闪烁的高光。雪花柔和地落在她的大衣和头发上，而远处的森林则在寒冷的蓝色薄雾中保持模糊。", "atmosphere": "宁静、神奇、电影感、平和、感性、梦幻且永恒。", "lighting": "{argument name=\"lighting\" default=\"温暖的金色灯光与冷色调的暮色形成对比，体积光，逼真的光线穿过降雪产生散射，柔和的阴影，电影级光晕。\"}", "composition": "亲密的电影感肖像，居中构图，浅景深，奶油般虚化的背景，柔和模糊的雪林背景，平视视角。", "style": "照片级逼真，电影杰作，柯达胶片色彩，超逼真的皮肤纹理，写实的降雪效果，体积光，奶油般虚化，浅景深，HDR，8K，高度细节，获奖摄影作品。", "mood": "在冬日的寂静中，那一刻宁静的温暖与希望。" }
+```

@@ -1,22 +1,1109 @@
 {
   "version": "2026-09-09",
   "cases": [
-    {"id": 1, "slug": "01-images2point5_16-9", "title": "Launch Wordmark", "kind": "t2i", "category": "Layout and type", "path": "docs/cases/01-images2point5_16-9.md"},
-    {"id": 2, "slug": "02-making-bed-before", "title": "Messy Bedroom (input)", "kind": "reconstruct-input", "category": "Fidelity and edits", "path": "docs/cases/02-making-bed-before.md"},
-    {"id": 3, "slug": "03-making-bed-after", "title": "Make the Bed", "kind": "edit", "category": "Fidelity and edits", "path": "docs/cases/03-making-bed-after.md"},
-    {"id": 4, "slug": "04-baby-portrait-before", "title": "Childhood Print (input)", "kind": "reconstruct-input", "category": "Fidelity and edits", "path": "docs/cases/04-baby-portrait-before.md"},
-    {"id": 5, "slug": "05-baby-portrait-after", "title": "Tuxedo Restyle", "kind": "edit", "category": "Fidelity and edits", "path": "docs/cases/05-baby-portrait-after.md"},
-    {"id": 6, "slug": "06-mid-century-modern-posters", "title": "Mid-century Poster Grid", "kind": "t2i", "category": "Layout and type", "path": "docs/cases/06-mid-century-modern-posters.md"},
-    {"id": 7, "slug": "07-vintage-national-park-stamps", "title": "National Park Stamps", "kind": "t2i", "category": "Layout and type", "path": "docs/cases/07-vintage-national-park-stamps.md"},
-    {"id": 8, "slug": "08-wedding-invitation", "title": "Wedding Invitation Flat-lay", "kind": "t2i", "category": "Layout and type", "path": "docs/cases/08-wedding-invitation.md"},
-    {"id": 9, "slug": "09-presentation-image", "title": "Science Deck Screenshot", "kind": "t2i", "category": "Documents", "path": "docs/cases/09-presentation-image.md"},
-    {"id": 10, "slug": "10-stickers", "title": "ChatGPT Stickers Poster", "kind": "t2i", "category": "Product and brand", "path": "docs/cases/10-stickers.md"},
-    {"id": 11, "slug": "11-impressionist-cityscape", "title": "Impressionist Cityscape", "kind": "t2i", "category": "Style lock", "path": "docs/cases/11-impressionist-cityscape.md"},
-    {"id": 12, "slug": "12-cyberpunk", "title": "Restrained Cyberpunk City", "kind": "t2i", "category": "Style lock", "path": "docs/cases/12-cyberpunk.md"},
-    {"id": 13, "slug": "13-retrofuturism", "title": "Orbital Colony Retrofuturism", "kind": "t2i", "category": "Style lock", "path": "docs/cases/13-retrofuturism.md"},
-    {"id": 14, "slug": "14-sci-fi-surrealism", "title": "Inverted City Surrealism", "kind": "t2i", "category": "Style lock", "path": "docs/cases/14-sci-fi-surrealism.md"},
-    {"id": 15, "slug": "15-80s-headshot", "title": "1980s Studio Headshot", "kind": "edit", "category": "Character", "path": "docs/cases/15-80s-headshot.md"},
-    {"id": 16, "slug": "16-mosaic", "title": "Earth Mosaic", "kind": "t2i", "category": "Style lock", "path": "docs/cases/16-mosaic.md"},
-    {"id": 17, "slug": "17-canvas-forge-ui", "title": "Canvas Forge UI Screenshot", "kind": "t2i", "category": "UI and interfaces", "path": "docs/cases/17-canvas-forge-ui.md"}
+    {
+      "id": 1,
+      "slug": "01-images2point5_16-9",
+      "title": "Launch Wordmark",
+      "kind": "t2i",
+      "category": "Layout and type",
+      "path": "docs/cases/01-images2point5_16-9.md"
+    },
+    {
+      "id": 2,
+      "slug": "02-making-bed-before",
+      "title": "Messy Bedroom (input)",
+      "kind": "reconstruct-input",
+      "category": "Fidelity and edits",
+      "path": "docs/cases/02-making-bed-before.md"
+    },
+    {
+      "id": 3,
+      "slug": "03-making-bed-after",
+      "title": "Make the Bed",
+      "kind": "edit",
+      "category": "Fidelity and edits",
+      "path": "docs/cases/03-making-bed-after.md"
+    },
+    {
+      "id": 4,
+      "slug": "04-baby-portrait-before",
+      "title": "Childhood Print (input)",
+      "kind": "reconstruct-input",
+      "category": "Fidelity and edits",
+      "path": "docs/cases/04-baby-portrait-before.md"
+    },
+    {
+      "id": 5,
+      "slug": "05-baby-portrait-after",
+      "title": "Tuxedo Restyle",
+      "kind": "edit",
+      "category": "Fidelity and edits",
+      "path": "docs/cases/05-baby-portrait-after.md"
+    },
+    {
+      "id": 6,
+      "slug": "06-mid-century-modern-posters",
+      "title": "Mid-century Poster Grid",
+      "kind": "t2i",
+      "category": "Layout and type",
+      "path": "docs/cases/06-mid-century-modern-posters.md"
+    },
+    {
+      "id": 7,
+      "slug": "07-vintage-national-park-stamps",
+      "title": "National Park Stamps",
+      "kind": "t2i",
+      "category": "Layout and type",
+      "path": "docs/cases/07-vintage-national-park-stamps.md"
+    },
+    {
+      "id": 8,
+      "slug": "08-wedding-invitation",
+      "title": "Wedding Invitation Flat-lay",
+      "kind": "t2i",
+      "category": "Layout and type",
+      "path": "docs/cases/08-wedding-invitation.md"
+    },
+    {
+      "id": 9,
+      "slug": "09-presentation-image",
+      "title": "Science Deck Screenshot",
+      "kind": "t2i",
+      "category": "Documents",
+      "path": "docs/cases/09-presentation-image.md"
+    },
+    {
+      "id": 10,
+      "slug": "10-stickers",
+      "title": "ChatGPT Stickers Poster",
+      "kind": "t2i",
+      "category": "Product and brand",
+      "path": "docs/cases/10-stickers.md"
+    },
+    {
+      "id": 11,
+      "slug": "11-impressionist-cityscape",
+      "title": "Impressionist Cityscape",
+      "kind": "t2i",
+      "category": "Style lock",
+      "path": "docs/cases/11-impressionist-cityscape.md"
+    },
+    {
+      "id": 12,
+      "slug": "12-cyberpunk",
+      "title": "Restrained Cyberpunk City",
+      "kind": "t2i",
+      "category": "Style lock",
+      "path": "docs/cases/12-cyberpunk.md"
+    },
+    {
+      "id": 13,
+      "slug": "13-retrofuturism",
+      "title": "Orbital Colony Retrofuturism",
+      "kind": "t2i",
+      "category": "Style lock",
+      "path": "docs/cases/13-retrofuturism.md"
+    },
+    {
+      "id": 14,
+      "slug": "14-sci-fi-surrealism",
+      "title": "Inverted City Surrealism",
+      "kind": "t2i",
+      "category": "Style lock",
+      "path": "docs/cases/14-sci-fi-surrealism.md"
+    },
+    {
+      "id": 15,
+      "slug": "15-80s-headshot",
+      "title": "1980s Studio Headshot",
+      "kind": "edit",
+      "category": "Character",
+      "path": "docs/cases/15-80s-headshot.md"
+    },
+    {
+      "id": 16,
+      "slug": "16-mosaic",
+      "title": "Earth Mosaic",
+      "kind": "t2i",
+      "category": "Style lock",
+      "path": "docs/cases/16-mosaic.md"
+    },
+    {
+      "id": 17,
+      "slug": "17-canvas-forge-ui",
+      "title": "Canvas Forge UI Screenshot",
+      "kind": "t2i",
+      "category": "UI and interfaces",
+      "path": "docs/cases/17-canvas-forge-ui.md"
+    },
+    {
+      "id": 19,
+      "slug": "019-imported-",
+      "title": "实物与手绘涂鸦创意广告",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/019-imported-.md"
+    },
+    {
+      "id": 20,
+      "slug": "020-imported-",
+      "title": "黑白肖像艺术",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/020-imported-.md"
+    },
+    {
+      "id": 21,
+      "slug": "021-imported-",
+      "title": "磨砂玻璃后的虚实对比剪影",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/021-imported-.md"
+    },
+    {
+      "id": 22,
+      "slug": "022-imported-",
+      "title": "三只动物与地标自拍",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/022-imported-.md"
+    },
+    {
+      "id": 23,
+      "slug": "023-imported-",
+      "title": "品牌化键盘键帽",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/023-imported-.md"
+    },
+    {
+      "id": 24,
+      "slug": "024-imported-emoji",
+      "title": "镀铬emoji徽章",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/024-imported-emoji.md"
+    },
+    {
+      "id": 25,
+      "slug": "025-imported-",
+      "title": "儿童涂色页插画",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/025-imported-.md"
+    },
+    {
+      "id": 26,
+      "slug": "026-imported-",
+      "title": "字母与单词含义融合",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/026-imported-.md"
+    },
+    {
+      "id": 27,
+      "slug": "027-imported-",
+      "title": "双重曝光",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/027-imported-.md"
+    },
+    {
+      "id": 28,
+      "slug": "028-imported-",
+      "title": "超现实交互场景",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/028-imported-.md"
+    },
+    {
+      "id": 29,
+      "slug": "029-imported-",
+      "title": "动物硅胶腕托",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/029-imported-.md"
+    },
+    {
+      "id": 30,
+      "slug": "030-imported-",
+      "title": "发光线条解剖图",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/030-imported-.md"
+    },
+    {
+      "id": 31,
+      "slug": "031-imported-",
+      "title": "特色城市天气预报",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/031-imported-.md"
+    },
+    {
+      "id": 32,
+      "slug": "032-imported-",
+      "title": "代码风格名片",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/032-imported-.md"
+    },
+    {
+      "id": 33,
+      "slug": "033-imported-",
+      "title": "乐高城市景观",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/033-imported-.md"
+    },
+    {
+      "id": 34,
+      "slug": "034-imported-",
+      "title": "水晶球故事场景",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/034-imported-.md"
+    },
+    {
+      "id": 35,
+      "slug": "035-imported-",
+      "title": "怀旧动漫风格电影海报",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/035-imported-.md"
+    },
+    {
+      "id": 36,
+      "slug": "036-imported-logo",
+      "title": "Logo 形状创意书架",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/036-imported-logo.md"
+    },
+    {
+      "id": 37,
+      "slug": "037-imported-",
+      "title": "迷你赛博朋克移轴景观",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/037-imported-.md"
+    },
+    {
+      "id": 38,
+      "slug": "038-imported-",
+      "title": "剪影艺术",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/038-imported-.md"
+    },
+    {
+      "id": 39,
+      "slug": "039-imported-logo",
+      "title": "未来主义 Logo 交易卡",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/039-imported-logo.md"
+    },
+    {
+      "id": 40,
+      "slug": "040-imported-3d",
+      "title": "超写实3D游戏角色怀旧场景",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/040-imported-3d.md"
+    },
+    {
+      "id": 41,
+      "slug": "041-imported-",
+      "title": "创意丝绸宇宙",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/041-imported-.md"
+    },
+    {
+      "id": 42,
+      "slug": "042-imported-",
+      "title": "奇幻水下场景冰棒",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/042-imported-.md"
+    },
+    {
+      "id": 43,
+      "slug": "043-imported-",
+      "title": "蒸汽朋克机械鱼",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/043-imported-.md"
+    },
+    {
+      "id": 44,
+      "slug": "044-imported-emoji",
+      "title": "Emoji 奶油雪糕",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/044-imported-emoji.md"
+    },
+    {
+      "id": 45,
+      "slug": "045-imported-",
+      "title": "虚构推文截图",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/045-imported-.md"
+    },
+    {
+      "id": 46,
+      "slug": "046-imported-emoji",
+      "title": "Emoji 簇绒地毯",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/046-imported-emoji.md"
+    },
+    {
+      "id": 47,
+      "slug": "047-imported-",
+      "title": "彩色矢量艺术海报",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/047-imported-.md"
+    },
+    {
+      "id": 48,
+      "slug": "048-imported-",
+      "title": "云彩艺术",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/048-imported-.md"
+    },
+    {
+      "id": 49,
+      "slug": "049-imported-8",
+      "title": "8位像素图标",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/049-imported-8.md"
+    },
+    {
+      "id": 50,
+      "slug": "050-imported-3d",
+      "title": "迷你 3D 建筑",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/050-imported-3d.md"
+    },
+    {
+      "id": 51,
+      "slug": "051-imported-",
+      "title": "创意绿植花盆",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/051-imported-.md"
+    },
+    {
+      "id": 52,
+      "slug": "052-imported-iphone",
+      "title": "“极其平凡”的iPhone自拍",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/052-imported-iphone.md"
+    },
+    {
+      "id": 53,
+      "slug": "053-imported-emoji",
+      "title": "Emoji 充气感靠垫",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/053-imported-emoji.md"
+    },
+    {
+      "id": 54,
+      "slug": "054-imported-emoji",
+      "title": "纸艺风格 Emoji 图标",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/054-imported-emoji.md"
+    },
+    {
+      "id": 55,
+      "slug": "055-imported-",
+      "title": "护照入境印章",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/055-imported-.md"
+    },
+    {
+      "id": 56,
+      "slug": "056-imported-",
+      "title": "物理破坏效果卡片",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/056-imported-.md"
+    },
+    {
+      "id": 57,
+      "slug": "057-imported-",
+      "title": "时尚杂志封面风格",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/057-imported-.md"
+    },
+    {
+      "id": 58,
+      "slug": "058-imported-3d",
+      "title": "体素风格 3D 图标",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/058-imported-3d.md"
+    },
+    {
+      "id": 59,
+      "slug": "059-imported-esc",
+      "title": "键盘ESC键帽微型立体模型",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/059-imported-esc.md"
+    },
+    {
+      "id": 60,
+      "slug": "060-imported-",
+      "title": "快乐胶囊制作",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/060-imported-.md"
+    },
+    {
+      "id": 61,
+      "slug": "061-imported-3d-q",
+      "title": "3D Q版大学拟人化形象",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/061-imported-3d-q.md"
+    },
+    {
+      "id": 62,
+      "slug": "062-imported-rpg",
+      "title": "RPG 风格角色卡片制作",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/062-imported-rpg.md"
+    },
+    {
+      "id": 63,
+      "slug": "063-imported-",
+      "title": "微型立体场景（西游主题）",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/063-imported-.md"
+    },
+    {
+      "id": 64,
+      "slug": "064-imported-",
+      "title": "奇幻卡通插画",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/064-imported-.md"
+    },
+    {
+      "id": 65,
+      "slug": "065-imported-",
+      "title": "手绘信息图卡片（深度工作）",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/065-imported-.md"
+    },
+    {
+      "id": 66,
+      "slug": "066-imported-3d",
+      "title": "柔和风格3D广告",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/066-imported-3d.md"
+    },
+    {
+      "id": 67,
+      "slug": "067-imported-3d-markdown",
+      "title": "极简主义 3D 插画（Markdown 格式）",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/067-imported-3d-markdown.md"
+    },
+    {
+      "id": 68,
+      "slug": "068-imported-",
+      "title": "毛茸茸南瓜灯",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/068-imported-.md"
+    },
+    {
+      "id": 69,
+      "slug": "069-imported-",
+      "title": "手绘信息图卡片（熬夜护肝）",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/069-imported-.md"
+    },
+    {
+      "id": 70,
+      "slug": "070-imported-",
+      "title": "折叠式纸雕立体绘本",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/070-imported-.md"
+    },
+    {
+      "id": 71,
+      "slug": "071-imported-",
+      "title": "动漫贴纸集合",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/071-imported-.md"
+    },
+    {
+      "id": 72,
+      "slug": "072-imported-35mm",
+      "title": "35mm 胶片风格飞岛",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/072-imported-35mm.md"
+    },
+    {
+      "id": 73,
+      "slug": "073-imported-ootd",
+      "title": "名画人物 OOTD",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/073-imported-ootd.md"
+    },
+    {
+      "id": 74,
+      "slug": "074-imported-3d-json",
+      "title": "极简主义 3D 插画（JSON 格式）",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/074-imported-3d-json.md"
+    },
+    {
+      "id": 75,
+      "slug": "075-imported-",
+      "title": "小红书封面",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/075-imported-.md"
+    },
+    {
+      "id": 76,
+      "slug": "076-imported-",
+      "title": "手办与真人同框",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/076-imported-.md"
+    },
+    {
+      "id": 77,
+      "slug": "077-imported-",
+      "title": "玩具盒中的国家立体模型",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/077-imported-.md"
+    },
+    {
+      "id": 78,
+      "slug": "078-imported-crt",
+      "title": "复古CRT电脑启动屏幕",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/078-imported-crt.md"
+    },
+    {
+      "id": 79,
+      "slug": "079-imported-",
+      "title": "讽刺海报生成",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/079-imported-.md"
+    },
+    {
+      "id": 80,
+      "slug": "080-imported-ps2",
+      "title": "PS2 游戏封面",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/080-imported-ps2.md"
+    },
+    {
+      "id": 81,
+      "slug": "081-imported-",
+      "title": "讽刺漫画生成",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/081-imported-.md"
+    },
+    {
+      "id": 82,
+      "slug": "082-imported-",
+      "title": "极简未来主义海报",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/082-imported-.md"
+    },
+    {
+      "id": 83,
+      "slug": "083-imported-",
+      "title": "个性化房间设计",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/083-imported-.md"
+    },
+    {
+      "id": 84,
+      "slug": "084-imported-",
+      "title": "复古宣传海报",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/084-imported-.md"
+    },
+    {
+      "id": 85,
+      "slug": "085-imported-q",
+      "title": "Q版求婚场景",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/085-imported-q.md"
+    },
+    {
+      "id": 86,
+      "slug": "086-imported-",
+      "title": "吉卜力风格",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/086-imported-.md"
+    },
+    {
+      "id": 87,
+      "slug": "087-imported-3d-q",
+      "title": "3D Q版风格场景",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/087-imported-3d-q.md"
+    },
+    {
+      "id": 88,
+      "slug": "088-imported-3d",
+      "title": "皮克斯3D风格原创角色",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/088-imported-3d.md"
+    },
+    {
+      "id": 89,
+      "slug": "089-imported-q",
+      "title": "Q版角色表情包",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/089-imported-q.md"
+    },
+    {
+      "id": 90,
+      "slug": "090-imported-funko-pop",
+      "title": "Funko Pop 公仔包装",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/090-imported-funko-pop.md"
+    },
+    {
+      "id": 91,
+      "slug": "091-imported-",
+      "title": "名画人物麦片广告",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/091-imported-.md"
+    },
+    {
+      "id": 92,
+      "slug": "092-imported-q",
+      "title": "Q版可爱俄罗斯套娃",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/092-imported-q.md"
+    },
+    {
+      "id": 93,
+      "slug": "093-imported-",
+      "title": "可爱珐琅别针",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/093-imported-.md"
+    },
+    {
+      "id": 94,
+      "slug": "094-imported-",
+      "title": "半透明玻璃质感变换",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/094-imported-.md"
+    },
+    {
+      "id": 95,
+      "slug": "095-imported-json",
+      "title": "玻璃材质重塑（JSON）",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/095-imported-json.md"
+    },
+    {
+      "id": 96,
+      "slug": "096-imported-",
+      "title": "古代藏宝图",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/096-imported-.md"
+    },
+    {
+      "id": 97,
+      "slug": "097-imported-",
+      "title": "自拍生成摇头娃娃",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/097-imported-.md"
+    },
+    {
+      "id": 98,
+      "slug": "098-imported-",
+      "title": "定制动漫手办",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/098-imported-.md"
+    },
+    {
+      "id": 99,
+      "slug": "099-imported-",
+      "title": "双色调摄影棚时尚肖像",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/099-imported-.md"
+    },
+    {
+      "id": 100,
+      "slug": "100-imported-",
+      "title": "巨型月亮下的夜色剪影",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/100-imported-.md"
+    },
+    {
+      "id": 101,
+      "slug": "101-imported-",
+      "title": "都市奢华男士肖像",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/101-imported-.md"
+    },
+    {
+      "id": 102,
+      "slug": "102-imported-",
+      "title": "佩戴分子发夹的动漫女学生",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/102-imported-.md"
+    },
+    {
+      "id": 103,
+      "slug": "103-imported-",
+      "title": "黄金时刻电影感男性肖像",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/103-imported-.md"
+    },
+    {
+      "id": 104,
+      "slug": "104-imported-",
+      "title": "佩戴骷髅戒指的忧郁肖像",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/104-imported-.md"
+    },
+    {
+      "id": 105,
+      "slug": "105-imported-",
+      "title": "电影感黑白影棚肖像",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/105-imported-.md"
+    },
+    {
+      "id": 106,
+      "slug": "106-imported-",
+      "title": "幼儿快餐喜剧剧照",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/106-imported-.md"
+    },
+    {
+      "id": 107,
+      "slug": "107-imported-",
+      "title": "便利店里的动漫女学生",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/107-imported-.md"
+    },
+    {
+      "id": 108,
+      "slug": "108-imported-",
+      "title": "电影感雨中欧洲街道人像",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/108-imported-.md"
+    },
+    {
+      "id": 109,
+      "slug": "109-imported-",
+      "title": "富士山水彩风格转换",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/109-imported-.md"
+    },
+    {
+      "id": 110,
+      "slug": "110-imported-",
+      "title": "烹饪速写插画叙事",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/110-imported-.md"
+    },
+    {
+      "id": 111,
+      "slug": "111-imported-",
+      "title": "现代艺术活动海报",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/111-imported-.md"
+    },
+    {
+      "id": 112,
+      "slug": "112-imported-",
+      "title": "英文社论报纸排版",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/112-imported-.md"
+    },
+    {
+      "id": 113,
+      "slug": "113-imported-",
+      "title": "定制地标旅行海报模板",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/113-imported-.md"
+    },
+    {
+      "id": 114,
+      "slug": "114-imported-",
+      "title": "四格香蕉奶昔食谱拼图",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/114-imported-.md"
+    },
+    {
+      "id": 115,
+      "slug": "115-imported-",
+      "title": "复古植物学勿忘我海报",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/115-imported-.md"
+    },
+    {
+      "id": 116,
+      "slug": "116-imported-",
+      "title": "爱因斯坦手写论文风格",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/116-imported-.md"
+    },
+    {
+      "id": 117,
+      "slug": "117-imported-",
+      "title": "电影感沙漠“火之环”专辑封面",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/117-imported-.md"
+    },
+    {
+      "id": 118,
+      "slug": "118-imported-",
+      "title": "赛博朋克犬耳女剑客",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/118-imported-.md"
+    },
+    {
+      "id": 119,
+      "slug": "119-imported-",
+      "title": "冬日暮色中的灯笼摄影",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/119-imported-.md"
+    },
+    {
+      "id": 120,
+      "slug": "120-imported-",
+      "title": "海盗放克播放列表封面",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/120-imported-.md"
+    },
+    {
+      "id": 121,
+      "slug": "121-imported-",
+      "title": "巴黎清晨咖啡生活方式场景",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/121-imported-.md"
+    },
+    {
+      "id": 122,
+      "slug": "122-imported-q",
+      "title": "睡眼惺忪的粉发 Q 版少女",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/122-imported-q.md"
+    },
+    {
+      "id": 123,
+      "slug": "123-imported-",
+      "title": "晨曦光圈动漫都市",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/123-imported-.md"
+    },
+    {
+      "id": 124,
+      "slug": "124-imported-",
+      "title": "雨天清晨的仓鼠玻璃艺术",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/124-imported-.md"
+    },
+    {
+      "id": 125,
+      "slug": "125-imported-",
+      "title": "冲锋的双头地狱犬",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/125-imported-.md"
+    },
+    {
+      "id": 126,
+      "slug": "126-imported-",
+      "title": "水彩霍比特人冒险家",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/126-imported-.md"
+    },
+    {
+      "id": 127,
+      "slug": "127-imported-",
+      "title": "可爱小熊猫儿童插画",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/127-imported-.md"
+    },
+    {
+      "id": 128,
+      "slug": "128-imported-",
+      "title": "金发哥特萝莉樱花神社",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/128-imported-.md"
+    },
+    {
+      "id": 129,
+      "slug": "129-imported-",
+      "title": "手持日文告示牌的毛茸茸仓鼠",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/129-imported-.md"
+    },
+    {
+      "id": 130,
+      "slug": "130-imported-",
+      "title": "美式松饼制作过程网格图",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/130-imported-.md"
+    },
+    {
+      "id": 131,
+      "slug": "131-imported-",
+      "title": "商业粉色浆果冰沙摄影",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/131-imported-.md"
+    },
+    {
+      "id": 132,
+      "slug": "132-imported-",
+      "title": "奢华腕表产品广告模板",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/132-imported-.md"
+    },
+    {
+      "id": 133,
+      "slug": "133-imported-",
+      "title": "雪花石膏微缩城市雕塑",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/133-imported-.md"
+    },
+    {
+      "id": 134,
+      "slug": "134-imported-",
+      "title": "奢华香水商业摄影",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/134-imported-.md"
+    },
+    {
+      "id": 135,
+      "slug": "135-imported-",
+      "title": "电影级中世纪山顶城堡",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/135-imported-.md"
+    },
+    {
+      "id": 136,
+      "slug": "136-imported-void-fang",
+      "title": "未来感 Void Fang 机甲",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/136-imported-void-fang.md"
+    },
+    {
+      "id": 137,
+      "slug": "137-imported-",
+      "title": "东京警视厅防汛救援机甲",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/137-imported-.md"
+    },
+    {
+      "id": 138,
+      "slug": "138-imported-3d",
+      "title": "色彩鲜艳的 3D 女孩角色设计图",
+      "kind": "t2i",
+      "category": "Imported showcase",
+      "path": "docs/cases/138-imported-3d.md"
+    },
+    {
+      "id": 18,
+      "slug": "18-desert-observatory-keyframe",
+      "title": "Desert Observatory Keyframe",
+      "kind": "t2i",
+      "category": "Scenes and storytelling",
+      "path": "docs/cases/18-desert-observatory-keyframe.md"
+    }
   ]
 }
