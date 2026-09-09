@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Cases](https://img.shields.io/badge/cases-138-111111)](docs/gallery.md)
+[![Cases](https://img.shields.io/badge/cases-139-111111)](docs/gallery.md)
 [![Templates](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![Updated](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -48,13 +48,19 @@ The three newest image-backed imported cases are shown at full size.
 
 ### Imported case contact sheets
 
-All other imported generated images are grouped into three large contact sheets. The three contact sheets show every imported image without gaps; use the [full 138-case gallery](docs/gallery.md) to open each prompt page.
+All other imported generated images are grouped into three large contact sheets. The three contact sheets show every imported image without gaps; use the [full 139-case gallery](docs/gallery.md) to open each prompt page.
 
 ![Imported GPT Image 2.5 cases 019–057](assets/generated/imported-contact-sheet-1.jpg)
 
 ![Imported GPT Image 2.5 cases 058–091](assets/generated/imported-contact-sheet-2.jpg)
 
 ![Imported GPT Image 2.5 cases 092–122](assets/generated/imported-contact-sheet-3.jpg)
+
+### 139 · AdRevival Storyboard
+
+![AdRevival Private Management cinematic storyboard board](assets/generated/139-adrevival-storyboard.png)
+
+[Read the prompt](docs/cases/139-adrevival-storyboard.md)
 
 > **What is this repository?** A practical prompt and visual-reference library for learning, evaluating, and prototyping with GPT Image 2.5. It is documentation and sample data, not an API SDK, model checkpoint, or promise of identical outputs.
 
@@ -91,7 +97,7 @@ The complete index is available in [docs/gallery.md](docs/gallery.md), with cate
 
 ## What is included
 
-- **138 documented cases** covering text-to-image, image reconstruction, and targeted image edits.
+- **139 documented cases** covering text-to-image, image reconstruction, and targeted image edits.
 - **Official reference stills** linked to the public launch CDN, paired with local reconstruction slots where generated files are available.
 - **18 reusable prompt templates** for local edits, identity-preserving restyles, multi-turn comments, posters, stamps, invitations, decks, pack shots, stickers, style studies, editorial typography, and structured infographics.
 - **Model and parameter notes** for ChatGPT Images 2.5, `gpt-image-2.5-flare`, and `gpt-image-2.5-sunburst`.

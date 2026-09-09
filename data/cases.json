@@ -1104,6 +1104,14 @@
       "kind": "t2i",
       "category": "Scenes and storytelling",
       "path": "docs/cases/18-desert-observatory-keyframe.md"
+    },
+    {
+      "id": 139,
+      "slug": "139-adrevival-storyboard",
+      "title": "AdRevival Private Management Storyboard",
+      "kind": "t2i",
+      "category": "Storyboards and advertising",
+      "path": "docs/cases/139-adrevival-storyboard.md"
     }
   ]
 }

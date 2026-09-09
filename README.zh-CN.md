@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![案例](https://img.shields.io/badge/cases-138-111111)](docs/gallery.md)
+[![案例](https://img.shields.io/badge/cases-139-111111)](docs/gallery.md)
 [![提示词模板](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![更新](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -48,13 +48,19 @@
 
 ### 导入案例联系页
 
-其余导入图片合并为三张大图展示；三张联系页无缝展示全部导入图片，全部 138 个案例见[完整画廊](docs/gallery.md)。
+其余导入图片合并为三张大图展示；三张联系页无缝展示全部导入图片，全部 139 个案例见[完整画廊](docs/gallery.md)。
 
 ![导入 GPT Image 2.5 案例 019–057](assets/generated/imported-contact-sheet-1.jpg)
 
 ![导入 GPT Image 2.5 案例 058–091](assets/generated/imported-contact-sheet-2.jpg)
 
 ![导入 GPT Image 2.5 案例 092–122](assets/generated/imported-contact-sheet-3.jpg)
+
+### 139 · AdRevival Storyboard
+
+![AdRevival Private Management 电影分镜板](assets/generated/139-adrevival-storyboard.png)
+
+[查看提示词](docs/cases/139-adrevival-storyboard.md)
 
 > **这是什么？** 一个用于学习和实践 GPT Image 2.5 的提示词与视觉参考库，包含文档和示例数据；它不是 API SDK、模型权重，也不保证每次生成得到完全相同的结果。
 
@@ -72,7 +78,7 @@
 
 ## 快速开始
 
-1. **先看案例。** 从 [138 个案例的画廊](docs/gallery.md) 开始，也可以按下方任务分类进入。
+1. **先看案例。** 从 [139 个案例的画廊](docs/gallery.md) 开始，也可以按下方任务分类进入。
 2. **阅读案例页。** 每页记录任务类型、视觉约束、输入图像或官方参考，以及可用时的重建提示词。
 3. **套用模板。** 复制 [提示词模板](docs/templates.md)，替换 `{subject}`、`{change}`、`{lock}`、`{style}`、`{copy}`、`{format}`，并把“要改什么”和“必须保持什么”分开写。
 4. **核对模型说明。** 在 [models.md](docs/models.md) 查看 Flare / Sunburst 的适用场景、图像参数和定日期的价格快照。
@@ -91,7 +97,7 @@
 
 ## 仓库内容
 
-- **138 个案例**：覆盖文生图、图像重建和定向图像编辑。
+- **139 个案例**：覆盖文生图、图像重建和定向图像编辑。
 - **官方参考图**：链接至公开发布 CDN；仓库为可用的重建结果预留本地路径。
 - **18 个提示词模板**：涵盖局部编辑、身份保持重绘、多轮评论、海报、邮票、请柬、演示文稿、产品图、贴纸、风格练习、编辑型字体海报和结构化信息图。
 - **模型与参数说明**：包含 ChatGPT Images 2.5、`gpt-image-2.5-flare`、`gpt-image-2.5-sunburst`。

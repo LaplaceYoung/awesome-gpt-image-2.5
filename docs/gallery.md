@@ -58,6 +58,8 @@ Official ChatGPT Images 2.5 stills. Each case is one page: preview, metadata, of
 Machine index: [`data/cases.json`](../data/cases.json)
 
 
+| 139 | [AdRevival Private Management Storyboard](cases/139-adrevival-storyboard.md) | t2i | Storyboards and advertising |
+
 ## Imported showcase cases
 
 These cases are part of the same case album; they retain their source batch IDs for traceability.
