@@ -1128,6 +1128,14 @@
       "kind": "t2i",
       "category": "UI and interfaces",
       "path": "docs/cases/141-feishu-collaboration-ui.md"
+    },
+    {
+      "id": 142,
+      "slug": "142-summer-beach-anime-duo",
+      "title": "Summer Beach Anime Duo",
+      "kind": "t2i",
+      "category": "Characters and people",
+      "path": "docs/cases/142-summer-beach-anime-duo.md"
     }
   ]
 }
