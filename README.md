@@ -40,6 +40,12 @@ These reconstruction images were generated in ChatGPT Web with GPT Image 2.5 fro
   </tr>
 </table>
 
+### Latest imported cases
+
+The three newest image-backed imported cases are shown at full size.
+
+<table><tr><td><a href="docs/cases/123-imported-.md"><img src="assets/generated/123-imported-.png" width="32%" alt="Case 123"></a></td><td><a href="docs/cases/124-imported-.md"><img src="assets/generated/124-imported-.png" width="32%" alt="Case 124"></a></td><td><a href="docs/cases/125-imported-.md"><img src="assets/generated/125-imported-.png" width="32%" alt="Case 125"></a></td></tr></table>
+
 ### Imported case contact sheets
 
 All other imported generated images are grouped into three large contact sheets. The three contact sheets show every imported image without gaps; use the [full 138-case gallery](docs/gallery.md) to open each prompt page.

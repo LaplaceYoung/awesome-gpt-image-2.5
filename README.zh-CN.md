@@ -40,6 +40,12 @@
   </tr>
 </table>
 
+### 最新导入案例
+
+最新的 3 个有图片导入案例使用大图展示。
+
+<table><tr><td><a href="docs/cases/123-imported-.md"><img src="assets/generated/123-imported-.png" width="32%" alt="案例 123"></a></td><td><a href="docs/cases/124-imported-.md"><img src="assets/generated/124-imported-.png" width="32%" alt="案例 124"></a></td><td><a href="docs/cases/125-imported-.md"><img src="assets/generated/125-imported-.png" width="32%" alt="案例 125"></a></td></tr></table>
+
 ### 导入案例联系页
 
 其余导入图片合并为三张大图展示；三张联系页无缝展示全部导入图片，全部 138 个案例见[完整画廊](docs/gallery.md)。
