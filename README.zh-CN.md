@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![案例](https://img.shields.io/badge/cases-140-111111)](docs/gallery.md)
+[![案例](https://img.shields.io/badge/cases-141-111111)](docs/gallery.md)
 [![提示词模板](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![更新](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -10,6 +10,12 @@
 产品背景请参阅 [ChatGPT Images 2.5 官方公告](https://openai.com/index/introducing-chatgpt-images-2-5/)，本仓库聚焦可复用的实践案例与提示词结构。
 
 [English](README.md) · [案例画廊](docs/gallery.md) · [提示词模板](docs/templates.md) · [模型指南](docs/models.md)
+
+### 141 · 飞书企业协作界面
+
+![飞书风格深色企业协作桌面界面](assets/generated/141-feishu-collaboration-ui.png)
+
+[查看提示词](docs/cases/141-feishu-collaboration-ui.md)
 
 ## 生成案例画廊
 

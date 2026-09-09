@@ -1120,6 +1120,14 @@
       "kind": "t2i",
       "category": "UI and interfaces",
       "path": "docs/cases/140-x-open-source-ai-index.md"
+    },
+    {
+      "id": 141,
+      "slug": "141-feishu-collaboration-ui",
+      "title": "Feishu Collaboration UI",
+      "kind": "t2i",
+      "category": "UI and interfaces",
+      "path": "docs/cases/141-feishu-collaboration-ui.md"
     }
   ]
 }

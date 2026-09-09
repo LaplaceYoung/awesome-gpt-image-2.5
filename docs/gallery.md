@@ -61,6 +61,7 @@ Machine index: [`data/cases.json`](../data/cases.json)
 | 139 | [AdRevival Private Management Storyboard](cases/139-adrevival-storyboard.md) | t2i | Storyboards and advertising |
 
 | 140 | [X Open Source AI Index UI](cases/140-x-open-source-ai-index.md) | t2i | UI and interfaces |
+| 141 | [Feishu Collaboration UI](cases/141-feishu-collaboration-ui.md) | t2i | UI and interfaces |
 
 ## Imported showcase cases
 

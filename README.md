@@ -1,7 +1,7 @@
 # Awesome GPT Image 2.5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Cases](https://img.shields.io/badge/cases-140-111111)](docs/gallery.md)
+[![Cases](https://img.shields.io/badge/cases-141-111111)](docs/gallery.md)
 [![Templates](https://img.shields.io/badge/prompt%20templates-18-111111)](docs/templates.md)
 [![Updated](https://img.shields.io/badge/updated-2026--09--08-blue)](docs/models.md)
 
@@ -10,6 +10,12 @@ An open-source reference library for **ChatGPT Images 2.5** and the **GPT-Image-
 See the [official ChatGPT Images 2.5 announcement](https://openai.com/index/introducing-chatgpt-images-2-5/) for product context; this repository focuses on practical examples and reusable prompt patterns.
 
 [简体中文](README.zh-CN.md) · [Case gallery](docs/gallery.md) · [Prompt templates](docs/templates.md) · [Model guide](docs/models.md)
+
+### 141 · Feishu Collaboration UI
+
+![Feishu Lark enterprise collaboration desktop interface in dark mode](assets/generated/141-feishu-collaboration-ui.png)
+
+[Read the prompt](docs/cases/141-feishu-collaboration-ui.md)
 
 ## Generated case gallery
 
